@@ -13,5 +13,5 @@ The goal of digital gardening is to [create an environment that grows and evolve
 On a personal note, I'm a feind for long form content and I've been dissatisfied with current blogging platforms (but I will continue to maintain [mine](https://geminiworms.weebly.com)). I also wanted a reason to dabble in html/css (see my scatterbrained [colophon](/colophon){: .internal-link}). 
 
 Here's a running list of digital gardens I enjoy:
-[Alisa.wtf](alisa.wtf)
-[Tom Critchlow](https://tomcritchlow.com/wiki/)
+1. [Alisa.wtf](alisa.wtf)
+2. [Tom Critchlow](https://tomcritchlow.com/wiki/)
