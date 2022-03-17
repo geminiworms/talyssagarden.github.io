@@ -1,0 +1,44 @@
+<div class="grid">
+	{% if site.grid_settings.display == "masonry" %}
+		<div class='card-columns'>
+	{% elsif site.grid_settings.display == "square-cropped" or site.grid_settings.display == "square-og" %}
+		<div class='row'>
+	{% endif %}
+	    {% for post in site.posts %}
+	    	{% assign post_filename = post.path | split: "." | first | remove_first: "_posts/" %}
+	    	{% capture post_images_folder %}/_images/post_images/{{ post_filename }}{% endcapture %}
+	    	{% assign post_images_array = "" | split: ',' %}
+
+	    	{% for image in site.static_files %}
+	    		{% assign image_folder = image.path | split: "/" | pop | join: "/" %}
+	    		{% if image_folder == post_images_folder %}
+	    			{% assign post_images_array = post_images_array | push: image %}
+				{% endif %}
+			{% endfor %}
+				
+			{% for post_image in post_images_array %}
+				{% if site.grid_settings.display == "masonry" %}
+					<div class="card grid-masonry">
+						<a href="{{ post.url | relative_url }}"><img src="{{ post_image.path | relative_url }}" class="img-fluid" alt="{{ post.title }}"></a>
+					</div>
+				{% elsif site.grid_settings.display == "square-cropped" or site.grid_settings.display == "square-og" %}
+					<div class='col-sm-4 col- p-0'>
+						<div class="image-container">
+							<a href="{{ post.url | relative_url }}">
+								{% if site.grid_settings.display == "square-cropped" %}
+									<img src="{{ post_image.path | relative_url }}" class="img-fluid" alt="{{ post.title }}">
+								{% elsif site.grid_settings.display == "square-og" %}
+									<img src="{{ post_image.path | relative_url }}" class="img-fluid grid-square-og" alt="{{ post.title }}">
+								{% endif %}
+							</a>
+						</div>
+					</div>
+				{% endif %}
+				{% if site.grid_settings.show_all_images == false %}
+					{% break %}
+				{% endif %}
+			{% endfor %}
+
+	    {% endfor %}
+	</div>
+</div>
