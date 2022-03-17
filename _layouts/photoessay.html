@@ -1,5 +1,6 @@
 ---
 layout: default
+class: photoessay
 ---
 <article>
   <div>
@@ -9,8 +10,6 @@ layout: default
       {% endif %}
     </time>
   </div>
-    {% include layoutType="photoessay" %}
-
     <div id="notes-entry-container">
     <content>
         {{ content }}
@@ -56,3 +55,4 @@ layout: default
 <p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
 
 {% include notes_graph.html %}
+
