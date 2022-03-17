@@ -1,6 +1,6 @@
 $color-primary: #206e31 ;
-$color-text: hsl(0, 0%, 20%);
-$color-subtext: hsl(0, 0%, 30%);
+$color-text: #000000;
+$color-subtext: #000000;
 $color-border: hsl(0, 0%, 85%);
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
@@ -82,7 +82,7 @@ a {
   color: $color-primary;
   &:hover {
     color: black !important;
-    background: #fffaf1;
+    background: #ffe6e6;
   }
   &:after {
     position: relative;
