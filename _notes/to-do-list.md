@@ -7,7 +7,8 @@ I'll keep this list as updated as possible just as a reference and also as an in
 
 ###1. creating a photogallery layout 
 I'm inspired by [alisa.wtf's photo galleries](https://alisa.wtf/plants) and am hoping to translate her [code](https://github.com/alisasgithub/alisa-digital-garden/blob/main/_layouts/photoessay.html) to work in my own site. So far, this is what the bulk of the code looks like:
-`---
+```html
+---
 layout: default
 class: photoessay
 ---
@@ -35,7 +36,8 @@ class: photoessay
         </ul>  
     </div>
 
-</div>`
+</div>
+```
 and I'll have to play with it more to make sure my paths line up right to my repo.
 
 ####2. gotta get to that about page...
