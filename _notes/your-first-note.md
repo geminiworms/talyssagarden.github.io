@@ -1,5 +1,5 @@
 ---
-title: Your first seed
+title: gardening cheat sheet :)
 ---
 
 ### Welcome!
