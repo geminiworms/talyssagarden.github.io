@@ -1,5 +1,5 @@
 ---
-title: Your first seed
+title: gardening cheat sheet :)
 ---
 
 ### Welcome!
@@ -99,6 +99,12 @@ end
 ```sh
 $ cat /dev/urandom | grep "the answer to life" # shell scripts look nice too
 ```
+
+### stuff I'm adding in to remember myself
+
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+  a <span style="font-weight: bold">[[your-first-note]]</span> to get started on your exploration.
+</p>
 
 
 ### Next steps
