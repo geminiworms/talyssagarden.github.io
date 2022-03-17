@@ -10,7 +10,8 @@ I developed this site on Windows 10 using [Ubuntu](https://ubuntu.com/)... unsur
 I use [Netlify](https://netlify.com) to deploy my site and host it on my custom domain. A word of advice (since no tutorial cautioned me about this); if you're using a custom domain, deploy with netlify, not gh pages. I don't know the theory, but it just didn't work for me. Anyways...
 
 #### the look
-I used this [digital garden jekyll template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) by Maxime Vaillancourt. I haven't tinkered with it yet so this section is going to be appended in time.
+I used this [digital garden jekyll template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) by Maxime Vaillancourt.
+I actually didn't change much. Minor edits for fonts and colors were added to the `sass.cs` files. 
 
 #### honorable mentions
 I love the [jekyll bonsai template](https://jekyll-bonsai.netlify.app/post/0b9db15818/#clone) by manunamz, and originally tried using it for my own site. I ultimately decided against it (clearly) because I'm unsure if my garden is going to need so much metadata.
