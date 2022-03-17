@@ -38,6 +38,6 @@ class: photoessay
 
 </div>
 ```
-and I'll have to play with it more to make sure my paths line up right to my repo.
+and I'll have to play with it more to make sure my paths line up right to my repo. Testing grounds are on [[moodboard]]
 
 ### 2. gotta get to that about page...
