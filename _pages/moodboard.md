@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: photoessay
 permalink: /
 ---
 <img src="/assets/moodboard1.gif"/> <img src="/assets/moodboard10.jpg"/>
