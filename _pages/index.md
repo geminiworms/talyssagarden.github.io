@@ -6,8 +6,7 @@ permalink: /
 ---
 
 # this is talyssa's [[what-is-digital-gardening|digital garden]]
-<p> </p>
-
+<hr>
 {% include notes_graph.html %}
 
 
