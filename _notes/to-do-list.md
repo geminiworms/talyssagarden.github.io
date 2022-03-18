@@ -42,3 +42,5 @@ class: photoessay
 and I'll have to play with it more to make sure my paths line up right to my repo. Testing grounds are on [[moodboard]]
 
 ### 2. gotta get to that about page...
+
+### 3. edit the embed link preview
