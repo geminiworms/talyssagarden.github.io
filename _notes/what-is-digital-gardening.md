@@ -6,12 +6,12 @@ title: digital gardening
 
 1. transparent note-taking 
 2. open source 
-3. wiki like network
+3. bi-directional links
 
 The goal of digital gardening is to [create an environment that grows and evolves naturally over time](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) and by doing so, the need for perfect content is eradicated.
 
-On a personal note, I'm a feind for long form content and I've been dissatisfied with current blogging platforms (but I will continue to maintain [mine](https://geminiworms.weebly.com)). I also wanted a reason to dabble in html/css (see my scatterbrained [colophon](/colophon){: .internal-link}). 
+I'm also just a feind for long form content and I've been dissatisfied with current blogging platforms (but I will continue to maintain [mine](https://geminiworms.weebly.com) for cohesive, developed prose). I also wanted a reason to dabble in html/css and I figure that the best way to learn is by doing (see my scatterbrained [[colophon]]). 
 
-Here's a running list of digital gardens I enjoy:
+#### Here's a running list of digital gardens I enjoy:
 1. [Alisa.wtf](alisa.wtf)
 2. [Tom Critchlow](https://tomcritchlow.com/wiki/)
