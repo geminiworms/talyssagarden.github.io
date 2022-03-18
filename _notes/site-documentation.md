@@ -10,6 +10,6 @@ speaking of colors, here's the ones I'm using on this site <br>
 <b>pinks:</b> <br>
 <b style="color:#ffedf5">light</b> <b style="color:#ffdbea">medium</b> <b style="color:#ffb0d3">dark</b> <br>
 `#ffedf5 , #ffdbea , #ffb0d3` <br>
-greens: <br>
+<b>greens:</b> <br>
 <b style="color:#d3e8d7">light</b> <b style="color:#84ab8c">medium</b> <b style="color:#206e31">dark</b> <b style="color:#15cf38 ">bright</b> <br>
 `#d3e8d7 , #84ab8c , #206e31 , #15cf38` <br>
