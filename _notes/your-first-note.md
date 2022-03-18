@@ -1,8 +1,18 @@
 ---
-title: gardening cheat sheet :)
+title: my html cheat sheet
 ---
+#### links like referencing
+- [w3schools](https://www.w3schools.com/html/html_styles.asp)
+- [javatpoint](https://www.javatpoint.com/html-tutorial)
+- Google colorpicker
 
-### Welcome!
+speaking of colors, here's the ones I'm using on this site
+pinks: <br>
+`#ffedf5 , #ffdbea , #ffb0d3` <br>
+greens: <br>
+`#d3e8d7 , #84ab8c , #206e31 , #15cf38` <br>
+
+### Original notes from template:
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
