@@ -7,7 +7,7 @@ title: supplementary materials
 - Google colorpicker
 
 speaking of colors, here's the ones I'm using on this site <br>
-pinks: <br>
+<b>pinks:</b> <br>
 <b style="color:#ffedf5">light</b> <b style="color:#ffdbea">medium</b> <b style="color:#ffb0d3">dark</b> <br>
 `#ffedf5 , #ffdbea , #ffb0d3` <br>
 greens: <br>
