@@ -43,3 +43,6 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+      
+imagesurl: "/mysite/img/"
+thumbsurl: "/mysite/thumbs/"
