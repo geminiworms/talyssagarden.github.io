@@ -3,6 +3,5 @@ title: "moodboard"
 ---
 
 testing?
-
-{% include img-gallery.html folder="/assets/moodboard" %}
+{% include image-gallery.html folder="/assets/moodboard" %}
 
