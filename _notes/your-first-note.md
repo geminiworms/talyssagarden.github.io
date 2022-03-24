@@ -1,5 +1,5 @@
 ---
-title: my html cheat sheet
+title: cheat sheet
 ---
 
 
