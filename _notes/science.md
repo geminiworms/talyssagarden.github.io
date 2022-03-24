@@ -3,7 +3,7 @@ title: An index for science & science adjacent notes
 ---
 
 #### Table of Contents
-1. Memory through metamorphosis
+1. [[[Memory through metamorphosis]]]
 2. The art of quorum sensing
 3. Unrequired required reading: a list of books for people who care about better science
 
