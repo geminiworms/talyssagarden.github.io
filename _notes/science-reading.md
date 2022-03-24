@@ -1,5 +1,5 @@
 ---
-title: "science" reads
+title: science-ish reads
 ---
 
 ### A list of books for people who care about better science
