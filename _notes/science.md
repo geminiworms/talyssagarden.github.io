@@ -1,12 +1,12 @@
 ---
-title: An index for science & science adjacent notes
+title: Science
 ---
-
+### An index for science & science adjacent notes
+<hr>
 #### Table of Contents
 1. [[[Memory through metamorphosis]]
 2. The art of quorum sensing
 3. [[science reading|Unrequired required reading: a list of books for people who care about better science]]
-
 
 
 #### Things I'm interested in exploring more
