@@ -1,6 +1,8 @@
 ---
-title: supplementary materials & playground
+title: playground
 ---
+##### supplementary materials, notes, and little html/css experiments for my personal reference
+
 #### links I like referencing for html
 - [w3schools](https://www.w3schools.com/html/html_styles.asp)
 - [javatpoint](https://www.javatpoint.com/html-tutorial)
