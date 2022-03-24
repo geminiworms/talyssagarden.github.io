@@ -1,5 +1,5 @@
 ---
-title: Reading for better science
+title: Good Science Reads
 ---
 
 ### A list of books for people who care about better science
