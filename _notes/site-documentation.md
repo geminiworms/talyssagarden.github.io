@@ -16,7 +16,7 @@ speaking of colors, here's the ones I'm using on this site <br>
 <b style="color:#d3e8d7">light</b> <b style="color:#84ab8c">medium</b> <b style="color:#206e31">dark</b> <b style="color:#15cf38 ">bright</b> <br>
 `#d3e8d7 , #84ab8c , #206e31 , #15cf38` <br>
 
-### a little box?
+#### a little box?
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   a <span style="font-weight: bold">[[your-first-note]]</span> to get started on your exploration.
