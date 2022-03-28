@@ -7,22 +7,16 @@ permalink: /
 <html>
 <head>
 <style>
-* {
-  box-sizing: border-box;
+
+.row {
+  display: flex;
 }
 
 .column {
-  float: left;
-  width: 33.33%;
+  flex: 33.33%;
   padding: 5px;
 }
 
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 </style>
 </head>
 <body>
