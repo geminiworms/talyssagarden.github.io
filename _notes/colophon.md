@@ -11,7 +11,7 @@ I use [Netlify](https://netlify.com) to deploy my site and host it on my custom 
 
 #### the look
 I used this [digital garden jekyll template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) by Maxime Vaillancourt.
-I actually didn't change much. Minor edits for fonts and colors were added to the `sass.cs` files. 
+I actually didn't change much. Minor edits for fonts and colors were added to the `sass.cs` files. Colors and other supplementary things I'm playing with are going to get compiled in the [[playground]].
 
 
 #### honorable mentions
@@ -21,4 +21,4 @@ I love the [jekyll bonsai template](https://jekyll-bonsai.netlify.app/post/0b9db
 *I have no web dev coding experience at all... unless you count tumblr html. However, I am a novice in bioinformatics so I started this endeavor with basic understanding of git, bash, and directory management. If you follow the [Virtual Goods Dealer](https://pages.virtualgoodsdealer.com/articles/2020/11/16/simple-website-tutorial-part-one/) static website tutorial from the beginning, I believe you will have all the basic understanding necessary to get your garden going. Otherwise, I am also here to help!*
 
 #### i'm learning!
-Who knows if the site will ever have a final form. You can check out pieces that I'm working on building in my [[to do list]]. 
+Who knows if the site will ever have a final form. You can check out pieces that I'm working on building in my [[to do list]].
