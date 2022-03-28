@@ -4,6 +4,29 @@ title: Home
 id: home
 permalink: /
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
 
 # this is talyssa's [[what-is-digital-gardening|digital garden]] 
 
@@ -18,20 +41,6 @@ permalink: /
     <img src="assets/index/index3.png" style="height:50%">
   </div>
 </div>
-
-<!-- Three image containers (use 25% for four, and 50% for two, etc) -->
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-<!-- Clear floats after image containers -->
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 
 {% include notes_graph.html %}
 
