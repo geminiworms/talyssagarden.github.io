@@ -7,7 +7,7 @@ permalink: /
 <html>
 <head>
 <style>
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 500px) {
   .column {
     width: 100%;
   }
@@ -20,13 +20,13 @@ permalink: /
 
 <div class="row">
   <div class="column">
-    <img src="assets/index/index1.png" style="height:300px">
+    <img src="assets/index/index1.png" style="width:100px">
   </div>
   <div class="column">
-    <img src="assets/index/index2.png" style="height:300px">
+    <img src="assets/index/index2.png" style="width:100px">
   </div>
   <div class="column">
-    <img src="assets/index/index3.png" style="height:300px">
+    <img src="assets/index/index3.png" style="width:100px">
   </div>
 </div>
 
