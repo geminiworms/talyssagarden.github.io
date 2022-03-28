@@ -7,14 +7,10 @@ permalink: /
 <html>
 <head>
 <style>
-
-  .row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
+@media screen and (max-width: 300px) {
+  .column {
+    width: 100%;
+  }
 }
 </style>
 </head>
