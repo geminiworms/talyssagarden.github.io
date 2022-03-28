@@ -27,6 +27,15 @@ permalink: /
 </head>
 <body>
 
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+
   <h1>this is talyssa's [[what-is-digital-gardening|digital garden]]</h1>
 
 <div class="row">
