@@ -12,8 +12,7 @@ permalink: /
 }
 
 .column {
-  flex: 33.33%;
-  padding: 5px;
+  flex: 20%;
 }
 </style>
 </head>
@@ -25,8 +24,14 @@ permalink: /
   <div class="column">
     <img src="assets/index/index1.png" style="width:100px">
   </div>
+    <div class="column">
+    <img src="assets/index/inde4.png" style="width:100px">
+  </div>
   <div class="column">
     <img src="assets/index/index2.png" style="width:100px">
+  </div>
+    <div class="column">
+    <img src="assets/index/index5.png" style="width:100px">
   </div>
   <div class="column">
     <img src="assets/index/index3.png" style="width:100px">
