@@ -4,7 +4,6 @@ title: Home
 id: home
 permalink: /
 ---
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -28,17 +27,17 @@ permalink: /
 </head>
 <body>
 
-# this is talyssa's [[what-is-digital-gardening|digital garden]] 
+  <h1>this is talyssa's [[what-is-digital-gardening|digital garden]]</h1>
 
 <div class="row">
   <div class="column">
-    <img src="assets/index/index1.png" style="height:50%">
+    <img src="assets/index/index1.png" style="height:25%">
   </div>
   <div class="column">
-    <img src="assets/index/index2.png" style="height:50%">
+    <img src="assets/index/index2.png" style="height:25%">
   </div>
   <div class="column">
-    <img src="assets/index/index3.png" style="height:50%">
+    <img src="assets/index/index3.png" style="height:25%">
   </div>
 </div>
 
