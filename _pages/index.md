@@ -31,13 +31,13 @@ permalink: /
 
 <div class="row">
   <div class="column">
-    <img src="assets/index/index1.png" style="height:25%">
+    <img src="assets/index/index1.png" style="height:200px">
   </div>
   <div class="column">
-    <img src="assets/index/index2.png" style="height:25%">
+    <img src="assets/index/index2.png" style="height:200px">
   </div>
   <div class="column">
-    <img src="assets/index/index3.png" style="height:25%">
+    <img src="assets/index/index3.png" style="height:200px">
   </div>
 </div>
 
