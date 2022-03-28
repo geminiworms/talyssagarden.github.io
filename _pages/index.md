@@ -9,15 +9,17 @@ permalink: /
 <hr>
 <div class="row">
   <div class="column">
-    <img src="assets/index/index1.png" style="width:100%">
+    <img src="assets/index/index1.png" style="height:50%">
   </div>
   <div class="column">
-    <img src="assets/index/index2.png" style="width:100%">
+    <img src="assets/index/index2.png" style="height:50%">
   </div>
   <div class="column">
-    <img src="assets/index/index3.png" style="width:100%">
+    <img src="assets/index/index3.png" style="height:50%">
   </div>
 </div>
+<hr>
+
 
 
 <style>
