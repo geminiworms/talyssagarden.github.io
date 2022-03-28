@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # this is talyssa's [[what-is-digital-gardening|digital garden]] 
-<hr>
+
 <div class="row">
   <div class="column">
     <img src="assets/index/index1.png" style="height:50%">
@@ -18,8 +18,8 @@ permalink: /
     <img src="assets/index/index3.png" style="height:50%">
   </div>
 </div>
-<hr>
 
+{% include notes_graph.html %}
 
 
 <style>
