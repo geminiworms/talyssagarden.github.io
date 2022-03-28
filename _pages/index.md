@@ -25,7 +25,7 @@ permalink: /
     <img src="assets/index/index1.png" style="width:100px">
   </div>
     <div class="column">
-    <img src="assets/index/inde4.png" style="width:100px">
+    <img src="assets/index/index4.png" style="width:100px">
   </div>
   <div class="column">
     <img src="assets/index/index2.png" style="width:100px">
