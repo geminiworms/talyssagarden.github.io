@@ -13,3 +13,4 @@ I'm also trying out [this guide](https://dmnfarrell.github.io/software/jekyll-ga
 and I'll have to play with it more to make sure my paths line up right to my repo. Testing grounds are on [[moodboard]] <br>
 so I think I might have a bit of a fix using [this tutorial](https://www.w3schools.com/howto/howto_css_images_side_by_side.asp) the only problem I'm having is running this formatting through loops. 
 
+Hmmm... can I turn this into a loop? [responsive photo grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
