@@ -7,6 +7,7 @@ title: SCIENCE
 1. [[Memory through metamorphosis]]
 2. The art of quorum sensing
 3. [[science reading|Unrequired required reading: a list of books for people who care about better science]]
+4. [[fight-or-flight|Long term consequences of fight or flight states]]
 
 
 #### Things I'm interested in exploring more
