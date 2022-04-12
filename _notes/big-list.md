@@ -10,7 +10,7 @@ title: BIG LIST
 3. [Charlie Kaufman screenwriters' lecture](https://youtu.be/EKU8xsC8goY)
 
 #### listen
-1. [feeling asian](https://open.spotify.com/show/19xkU2nVYC39nhig9Jvbc4?si=c480b6075a26445a)
+1. [feeling asian podcast](https://open.spotify.com/show/19xkU2nVYC39nhig9Jvbc4?si=c480b6075a26445a)
 2. [Derrick Gee playlists](https://open.spotify.com/user/derrickgee?si=4ecfafd80f4d4a9c)
 
 #### read
