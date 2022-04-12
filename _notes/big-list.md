@@ -7,6 +7,7 @@ title: BIG LIST
 #### watch
 1. [drive my car](https://www.youtube.com/watch?v=6BPKPb_RTwI)
 2. [memories of murder](https://www.youtube.com/watch?v=0n_HQwQU8ls)
+3. [Charlie Kaufman screenwriters' lecture](https://youtu.be/EKU8xsC8goY)
 #### listen
 1. [feeling asian](https://open.spotify.com/show/19xkU2nVYC39nhig9Jvbc4?si=c480b6075a26445a)
 2. [Derrick Gee playlists](https://open.spotify.com/user/derrickgee?si=4ecfafd80f4d4a9c)
