@@ -6,11 +6,8 @@ I'm new to css/html and so if you ran into a 404, it's probably because I haven'
 I'll keep this list as updated as possible just as a reference and also as an invitation for feedback.
 Here's [my repo](https://github.com/geminiworms/geminiworms.github.io) for reference.
 
-### 1. creating a photogallery layout 
-I'm inspired by [alisa.wtf's photo galleries](https://alisa.wtf/plants) and am hoping to translate her [code](https://github.com/alisasgithub/alisa-digital-garden/blob/main/_layouts/photoessay.html) to work in my own site. <br>
-I'm also trying out [this guide](https://dmnfarrell.github.io/software/jekyll-galleries) for a photo gallery `_includes` situation... 
+#### tbd
 
-and I'll have to play with it more to make sure my paths line up right to my repo. Testing grounds are on [[moodboard]] <br>
-so I think I might have a bit of a fix using [this tutorial](https://www.w3schools.com/howto/howto_css_images_side_by_side.asp) the only problem I'm having is running this formatting through loops. 
-
-Hmmm... can I turn this into a loop? [responsive photo grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
+### finished!
+1. I used this code for a [responsive photo grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp) to create a image gallery inspired by [alisa.wtf's photo galleries](https://alisa.wtf/plants). Some code I also considered using was [this guide](https://dmnfarrell.github.io/software/jekyll-galleries) for a photo gallery `_includes` situation... Ideally, it would've been a generative loop the read photo files out of a directory, but it seems like for now, I'm just working with it as a local grid.
+2. I added a site thumbnail using `<meta property="og:image" content="path" />` in my `head.html` file
