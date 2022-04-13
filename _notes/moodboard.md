@@ -1,20 +1,12 @@
 ---
 title: "moodboard"
 ---
+#### more on [my are.na](https://www.are.na/talyssa)
+
 <html>
 <style>
 * {
   box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: Courier, serif;
-}
-
-.header {
-  text-align: center;
-  padding: 32px;
 }
 
 .row {
@@ -59,11 +51,6 @@ body {
 </style>
 <body>
 
-<!-- Header -->
-<div class="header">
-  <h4>a gallery of sorts</h4>
-  <p>more on [my are.na](https://www.are.na/talyssa)</p>
-</div>
 
 <!-- Photo Grid -->
 <div class="row"> 
