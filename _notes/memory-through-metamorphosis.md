@@ -2,7 +2,7 @@
 title: memory through metamorphosis
 ---
 
-This is [my absolute favorite scientific publication by Douglass J. Blackiston, et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001736). It basically found that memories acquired by moths in the larval state can be retained after metamorphosis--- particularly, responses to negative stimuli (an electric shock following exposure to an unpleasant odor). <br>
+This is [my absolute favorite scientific publication by Douglass J. Blackiston, et al.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0001736). It basically found that ==memories acquired by moths in the larval state can be retained after metamorphosis==--- particularly, responses to negative stimuli (an electric shock following exposure to an unpleasant odor). <br>
 So then what does this imply? <br>
 Well for the science, it means that the reduction of an organism into biological sludge does not mean complete reset and rebirth. And for people who use insects for their main model organism, it means that particular biases might need to be accounted for when working across the span of developmental periods. <br>
 But what does this *mean mean*? <br>
