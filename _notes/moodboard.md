@@ -1,7 +1,6 @@
 ---
 title: "moodboard"
 ---
-<!DOCTYPE html>
 <html>
 <style>
 * {
@@ -10,7 +9,7 @@ title: "moodboard"
 
 body {
   margin: 0;
-  font-family: Arial;
+  font-family: Courier, serif;
 }
 
 .header {
@@ -62,8 +61,8 @@ body {
 
 <!-- Header -->
 <div class="header">
-  <h1>Responsive Image Grid</h1>
-  <p>Resize the browser window to see the responsive effect.</p>
+  <h4>a gallery of sorts</h4>
+  <p>more on [my are.na](https://www.are.na/talyssa)</p>
 </div>
 
 <!-- Photo Grid -->
@@ -71,18 +70,24 @@ body {
   <div class="column">
     <img src="/assets/moodboard/moodboard1.gif" style="width:100%">
     <img src="/assets/moodboard/moodboard2.jpg" style="width:100%">
-  </div>
-  <div class="column">
     <img src="/assets/moodboard/moodboard3.jpg" style="width:100%">
     <img src="/assets/moodboard/moodboard4.jpg" style="width:100%">
-  </div>  
+  </div>
   <div class="column">
     <img src="/assets/moodboard/moodboard5.png" style="width:100%">
     <img src="/assets/moodboard/moodboard6.png" style="width:100%">
-  </div>
-  <div class="column">
     <img src="/assets/moodboard/moodboard7.png" style="width:100%">
     <img src="/assets/moodboard/moodboard8.jpg" style="width:100%">
+  </div>  
+  <div class="column">
+    <img src="/assets/moodboard/moodboard9.jpg" style="width:100%">
+    <img src="/assets/moodboard/moodboard10.jpg" style="width:100%">
+    <img src="/assets/moodboard/moodboard11.jpg" style="width:100%">
+    <img src="/assets/moodboard/moodboard12.jpg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/moodboard/moodboard13.jpg" style="width:100%">
+    <img src="/assets/moodboard/moodboard14.png" style="width:100%">
   </div>
 </div>
 
