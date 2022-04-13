@@ -1,5 +1,7 @@
 ---
-title: "moodboard"
+layout: page
+title: Moodboard
+permalink: /moodboard
 ---
 #### more on [my are.na](https://www.are.na/talyssa)
 
