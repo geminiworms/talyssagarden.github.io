@@ -20,3 +20,7 @@ title: BIG LIST
 4. [psilocybin rewires the brain for people with depression](https://neuroscape.ucsf.edu/)
 5. [ecorise DAO medium explainer](https://medium.com/@EcoriseDAO/what-does-refi-need-an-explanation-of-ecorise-5f80c0455407)
 6. [the many deaths of laila starr by ram v](https://www.simonandschuster.com/books/The-Many-Deaths-of-Laila-Starr/Ram-V/Many-Deaths-of-Laila/9781684158058)
+
+#### look
+1. [generative garden art by Michael Zancan](https://www.instagram.com/zancan.code/)
+2. 
