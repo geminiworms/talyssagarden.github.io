@@ -10,6 +10,6 @@ In all orders of biology, it seems that there is some mechanism in place for col
 
 Something I'm trying to get at here is whether or not we as humans have maintained any of these behaviors, or if we've strayed too far in the name of individualism (or is it intraspecies competition). But intraspecies competition is not unique... and actually, a lot of these communal behaviors are a response to external stress... which also makes intraspecies competition more likely. So there is morality happening here as well; I can continue to fight for the limited resources for the sake of my own survival, or I can unify myself with my group in order to benefit the collective. <br>
 
-Yeah, I think we've abandoned this instinct a while ago. 
+Yeah, I think we've lost sight this instinct a while ago. 
 
 
