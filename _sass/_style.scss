@@ -43,11 +43,11 @@ img {
   border-radius: $border-radius;
 }
 
-.default{
+html{
   cursor: url('../assets/mini-graphics/snail.gif'), default;
 }
-.pointer{
-  cursor: url('../assets/mini-graphics/banana.gif'), pointer;
+a:hover{
+   cursor: url('../assets/mini-graphics/banana.gif'), pointer;
 }
 
 blockquote {
