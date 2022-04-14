@@ -1,5 +1,5 @@
 ---
-title: **SCIENCE**
+title: SCIENCE
 ---
 ### An index for science & science adjacent notes
 <hr>
