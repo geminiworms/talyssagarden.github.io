@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-I'm Talyssa, thanks for stopping by. <img src="/assets/mini-graphics/sprout.gif">
+I'm Talyssa, thanks for stopping by. <img src="/assets/mini-graphics/sprout.gif"><img src="/assets/mini-graphics/sprout.gif"><img src="/assets/mini-graphics/sprout.gif">
 <hr>
 
 I'm writing to you from my messy little desk in my messy little studio apartment in too-expensive-for-an-early-career-mid-twenty-year-old-in-student-debt <i>Southern California</i>.<br>
