@@ -43,6 +43,10 @@ img {
   border-radius: $border-radius;
 }
 
+html {
+    cursor: url('../assets/mini-graphics/fish.gif'), pointer;
+}
+
 blockquote {
   padding: 1.5em;
   margin: 0;
