@@ -1,5 +1,5 @@
 ---
-title: SELF
+title: SPIRIT
 ---
-#### index of reflections and commentary
-1. hair security
+#### index of reflections and observations
+1. 
