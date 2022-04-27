@@ -12,4 +12,5 @@ Also see [the botanical mind: art, mysticism, and the cosmic tree](https://www.y
 <img border="0" src="/assets/voynich-manuscript.jpg" style="width:500px;"></a> <br>
 *from the voynich manuscript* <br>
 
-I'm fascinated by the intentions behind this collection to bring together contemporary & modern as well as sacred & spiritual artfroms that explore the forms of plants and nature as a whole. 
+I'm fascinated by the intentions behind this collection to bring together contemporary & modern as well as sacred & spiritual artfroms that explore the forms of plants and nature as a whole. <br>
+This is a piece that will ultimately fit into my exploration of [[sacred geometry]]. 
