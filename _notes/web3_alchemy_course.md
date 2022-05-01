@@ -1,5 +1,5 @@
 ---
-title: Web3 Development Course
+title: Dev course
 ---
 These are my notes from a course series by [Alchemy](https://www.alchemy.com/) <br>
 
