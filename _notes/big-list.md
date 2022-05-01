@@ -12,14 +12,14 @@ title: BIG LIST
 #### listen
 1. [feeling asian podcast](https://open.spotify.com/show/19xkU2nVYC39nhig9Jvbc4?si=c480b6075a26445a)
 2. [Derrick Gee playlists](https://open.spotify.com/user/derrickgee?si=4ecfafd80f4d4a9c)
+3. [Camden Art podcasts](https://open.spotify.com/show/1PAnyGJWvo0Wlc8WXlY7bK?si=060c4a56cb764e6f)
 
 #### read
 1. [common discourse substack](https://www.commondiscourse.xyz/)
 2. [prescription videogames may be the future of medicine](https://www.theverge.com/2017/7/25/16019760/prescription-video-games-brain-next-level-video)
 3. [neuroscape ucsf](https://neuroscape.ucsf.edu/)
 4. [psilocybin rewires the brain for people with depression](https://neuroscape.ucsf.edu/)
-5. [ecorise DAO medium explainer](https://medium.com/@EcoriseDAO/what-does-refi-need-an-explanation-of-ecorise-5f80c0455407)
-6. [the many deaths of laila starr by ram v](https://www.simonandschuster.com/books/The-Many-Deaths-of-Laila-Starr/Ram-V/Many-Deaths-of-Laila/9781684158058)
+5. [the many deaths of laila starr by ram v](https://www.simonandschuster.com/books/The-Many-Deaths-of-Laila-Starr/Ram-V/Many-Deaths-of-Laila/9781684158058)
 
 #### look
 1. [generative garden art by Michael Zancan](https://www.instagram.com/zancan.code/)
