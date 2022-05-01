@@ -1,5 +1,5 @@
 ---
-title: Dev course
+title: alchemy dev
 ---
 These are my notes from a course series by [Alchemy](https://www.alchemy.com/) <br>
 
