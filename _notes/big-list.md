@@ -13,6 +13,7 @@ title: BIG LIST
 1. [feeling asian podcast](https://open.spotify.com/show/19xkU2nVYC39nhig9Jvbc4?si=c480b6075a26445a)
 2. [Derrick Gee playlists](https://open.spotify.com/user/derrickgee?si=4ecfafd80f4d4a9c)
 3. [Camden Art podcasts](https://open.spotify.com/show/1PAnyGJWvo0Wlc8WXlY7bK?si=060c4a56cb764e6f)
+4. [ancient green robin wall kimmerer](https://emergencemagazine.org/essay/ancient-green)
 
 #### read
 1. [common discourse substack](https://www.commondiscourse.xyz/)
@@ -20,6 +21,7 @@ title: BIG LIST
 3. [neuroscape ucsf](https://neuroscape.ucsf.edu/)
 4. [psilocybin rewires the brain for people with depression](https://neuroscape.ucsf.edu/)
 5. [the many deaths of laila starr by ram v](https://www.simonandschuster.com/books/The-Many-Deaths-of-Laila-Starr/Ram-V/Many-Deaths-of-Laila/9781684158058)
+6. [emergence magazine](https://emergencemagazine.org/)
 
 #### look
 1. [generative garden art by Michael Zancan](https://www.instagram.com/zancan.code/)
