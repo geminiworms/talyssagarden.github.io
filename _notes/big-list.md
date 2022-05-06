@@ -22,6 +22,7 @@ title: BIG LIST
 4. [psilocybin rewires the brain for people with depression](https://neuroscape.ucsf.edu/)
 5. [the many deaths of laila starr by ram v](https://www.simonandschuster.com/books/The-Many-Deaths-of-Laila-Starr/Ram-V/Many-Deaths-of-Laila/9781684158058)
 6. [emergence magazine](https://emergencemagazine.org/)
+7. [decolonizing psychedelics](https://neo.life/2020/10/inside-the-movement-to-decolonize-psychedelic-pharma/)
 
 #### look
 1. [generative garden art by Michael Zancan](https://www.instagram.com/zancan.code/)
