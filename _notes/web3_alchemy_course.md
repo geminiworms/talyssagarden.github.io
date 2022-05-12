@@ -10,7 +10,7 @@ These are my notes from a course series by [Alchemy](https://www.alchemy.com/) <
 
 **What is a smart contract?** A piece of software that runs on a decentralized network of nodes (servers) <br>
 What is needed? <br>
-1. solidity
+1. solidity (language)
 2. node (alchemy)
 3. dev environment
 4. cryptocurrency <br>
@@ -33,7 +33,7 @@ Features: <br>
 - first line ` // SPDX-License-Identifier: MIT ` specifies contract is open source but not to be used for commercial purpose <br>
 - private contract `Counters.Counter private _tokenIdCounter` indicates variables that are not going to be accessible externally
 - the mint function: <br>
-```C#
+```
     function safeMint(address to, string memory uri) public onlyOwner {
         uint256 tokenId = _tokenIdCounter.current();
         _tokenIdCounter.increment();
@@ -42,21 +42,18 @@ Features: <br>
     }
 ```
 in these parts, variables specify that the mint happens directly to address, it is a public function (accessible to external users interacting with my smart contract), `onlyOwner` right now means that only the contract owner is allowed to mint... so we deleted that, as well as other lines indicating `ownable` (see below)
-- deleted lines: <br>
-```C#
-import "@openzeppelin/contracts@4.6.0/access/Ownable.sol";
-```
+- deleted lines: `import "@openzeppelin/contracts@4.6.0/access/Ownable.sol";`
 - regarding the overrides, the notable one is the `function tokenURI(uint256 tokenId)` as it allows platforms like Opensea to get the URI of your token
 - `internal` variables/functions readable by smart contracts inheriting from ours
 - `view` variables/functions are only reading from the blockchain (not writing), marking as `view` is a no gas interaction with the blockchain <br>
 **modifications:**
 - setting max supply (of 10,000)
-```C#
+```
     Counters.Counter private _tokenIdCounter;
     uint256 MAX_SUPPLY = 10000;
 ```
 - sold out message when max supply is reached
-```C#
+```
 function safeMint(address to, string memory uri) public {
         uint256 tokenId = _tokenIdCounter.current();
         require(tokenId <= MAX_SUPPLY, "I'm sorry all NFTs have been minted");
@@ -124,6 +121,7 @@ contract Talytest is ERC721, ERC721Enumerable, ERC721URIStorage {
     }
 }
 ```
+
 #### let's deploy!
 - create new app on [Alchemy](https://www.alchemy.com/) and copy the HTTP key
 - in metamask, add new network "Alechmy Rinkeby" and paste the HTTP key into RPC url field
