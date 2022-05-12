@@ -2,6 +2,7 @@
 title: alchemy dev
 ---
 These are my notes from a course series by [Alchemy](https://www.alchemy.com/) <br>
+[My GitHub Repo](https://github.com/geminiworms/alchemyR2W3)
 
 ### Week 1: How to develop an NFT smart contract (ERC721) w/ alchemy
 [Video](https://www.youtube.com/watch?v=veBu03A6ptw&list=TLPQMDEwNTIwMjIuPY0StW4EGA&index=2) /
@@ -143,4 +144,6 @@ create metadata [opensea metadata standard](https://docs.opensea.io/docs/metadat
 ```
 - input relevant traits and then save and upload the .json file into the same filebase bucket
 - copy the metadata IPFS CID and paste into remix dropdown SAFEMINT variable to wallet address, make sure to add ipfs:// before the IPFS CID 
-- remix shows that I successfully minted, but it wont show up on opensea testnet...
+- remix shows that I successfully minted, but it wont show up on opensea testnet... <br>
+
+OpenSea testnet still doesnt show it, but I got a tip to use rinkeby rarible and that was [successful](https://rinkeby.rarible.com/token/0xf97a3e94ec24f2358e992cca35d3af562ad9d4ae:0?tab=details)
