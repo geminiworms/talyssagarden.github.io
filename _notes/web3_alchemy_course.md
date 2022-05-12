@@ -1,5 +1,5 @@
 ---
-title: alchemy dev
+title: alchemy course
 ---
 These are my notes from a course series by [Alchemy](https://www.alchemy.com/) <br>
 [My GitHub Repo](https://github.com/geminiworms/alchemyR2W3)
