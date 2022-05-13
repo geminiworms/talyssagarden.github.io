@@ -5,7 +5,7 @@ title: Web3 notes & resources
 As a scientist, my primary interests are in the development of [DeSci](https://www.notion.so/talyssa/DeSciChatter-bf46bbc579824582b68eb558009f372e), but the deeper I fall into the space, I'm becoming more and more interested in the building and development of commiunties and tools... so this is an index of sorts. <br>
 
 ### resources
-1. [[W3 Payrates|w3pay]]
+1. [[Payrate report|w3pay]]
 
 
 #### learning
