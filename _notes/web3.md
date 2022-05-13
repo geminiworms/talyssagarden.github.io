@@ -6,7 +6,8 @@ As a scientist, my primary interests are in the development of [DeSci](https://w
 
 ### resources
 1. [[W3 Payrates|w3pay]]
-2. 
+
+
 #### learning
 1. [DeSci Wiki](https://docs.google.com/document/d/1aQC6zn-eXflSmpts0XGE7CawbUEHwnL6o-OFXO52PTc/edit#heading=h.arcrgw3lu7wt)
 2. A brief ReFi [explainer](https://medium.com/@EcoriseDAO/what-does-refi-need-an-explanation-of-ecorise-5f80c0455407) by [EcoRiseDAO](https://twitter.com/EcoriseDAO)
