@@ -1,5 +1,5 @@
 ---
-title: w3 payrates
+title: web3 pay report
 ---
 #### notes for an in-progress report for payrates in Web3 spaces, with particular focus on woman/non-binary individuals
 resources to check: <br>
