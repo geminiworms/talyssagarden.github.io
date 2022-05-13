@@ -62,6 +62,7 @@ function safeMint(address to, string memory uri) public {
         _setTokenURI(tokenId, uri);
     }
 ```
+<br>
 The final contract:
 ```
 // SPDX-License-Identifier: MIT
