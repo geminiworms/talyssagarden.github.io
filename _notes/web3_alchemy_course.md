@@ -33,7 +33,7 @@ Features: <br>
 - first line ` // SPDX-License-Identifier: MIT ` specifies contract is open source but not to be used for commercial purpose <br>
 - private contract `Counters.Counter private _tokenIdCounter` indicates variables that are not going to be accessible externally
 - the mint function: <br>
-```
+```js
     function safeMint(address to, string memory uri) public onlyOwner {
         uint256 tokenId = _tokenIdCounter.current();
         _tokenIdCounter.increment();
@@ -48,12 +48,12 @@ in these parts, variables specify that the mint happens directly to address, it 
 - `view` variables/functions are only reading from the blockchain (not writing), marking as `view` is a no gas interaction with the blockchain <br>
 **modifications:**
 - setting max supply (of 10,000)
-```
+```js
     Counters.Counter private _tokenIdCounter;
     uint256 MAX_SUPPLY = 10000;
 ```
 - sold out message when max supply is reached
-```
+```js
 function safeMint(address to, string memory uri) public {
         uint256 tokenId = _tokenIdCounter.current();
         require(tokenId <= MAX_SUPPLY, "I'm sorry all NFTs have been minted");
@@ -62,17 +62,16 @@ function safeMint(address to, string memory uri) public {
         _setTokenURI(tokenId, uri);
     }
 ```
-<br>
-The final contract:
-```
-// SPDX-License-Identifier: MIT
+
+**The final contract:**
+```js
+/// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
 import "@openzeppelin/contracts@4.6.0/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts@4.6.0/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@openzeppelin/contracts@4.6.0/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
-
 
 contract Talytest is ERC721, ERC721Enumerable, ERC721URIStorage {
     using Counters for Counters.Counter;
