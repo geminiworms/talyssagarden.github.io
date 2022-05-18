@@ -15,3 +15,4 @@ I'm also just a feind for long form content and I've been dissatisfied with curr
 #### Here's a running list of digital gardens I enjoy:
 1. [Alisa.wtf](alisa.wtf)
 2. [Tom Critchlow](https://tomcritchlow.com/wiki/)
+3. [are.na board on 'creating digital gardens](https://www.are.na/annika-hansteen-izora/creating-digital-gardens)
