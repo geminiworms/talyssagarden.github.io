@@ -5,20 +5,6 @@ title: sacred geometry
 
 <html>
 <style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: Arial;
-}
-
-.header {
-  text-align: center;
-  padding: 32px;
-}
-
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
