@@ -34,11 +34,11 @@ title: sacred geometry
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="/assets/nautilus.jpg" style="width:100%">
+    <img src="/assets/nautilus.jpg" style="width:50%">
 
   </div>
   <div class="column">
-    <img src="/assets/fern.jpg" style="width:100%">
+    <img src="/assets/fern.jpg" style="width:50%">
 
   </div>  
   
