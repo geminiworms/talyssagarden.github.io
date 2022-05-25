@@ -1,5 +1,5 @@
 ---
-title: SPIRIT
+title: SELF
 ---
 #### index of reflections and observations
-1. 
+1. [[prompts]] for thinking
