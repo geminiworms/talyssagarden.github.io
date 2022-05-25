@@ -39,11 +39,6 @@ body {
 </style>
 <body>
 
-<!-- Header -->
-<div class="header">
-  <h1>Image Grid</h1>
-</div>
-
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
