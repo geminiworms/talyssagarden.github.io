@@ -41,3 +41,5 @@ title: sacred geometry
     <img src="/assets/fern.jpg" style="width:100%">
 
   </div>  
+  
+  <iframe style="border:none;" width="100%" height="590" src="https://www.are.na/talyssa/organic-movement/embed" title="my are.na channel “organic movement”"></iframe>
