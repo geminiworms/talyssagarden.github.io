@@ -5,6 +5,10 @@ title: sacred geometry
 
 <html>
 <style>
+* {
+  box-sizing: border-box;
+}
+
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
