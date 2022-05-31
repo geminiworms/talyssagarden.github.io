@@ -13,6 +13,6 @@ As a scientist, my primary interests are in the development of [DeSci](https://w
 
 
 #### building
-1. Web3 Dev [course series by Alchemy](https://www.youtube.com/watch?v=iM8AcSpIZGo) -- I'm taking notes on this [[web3_alchemy_course|here]]
+1. Web3 Dev [course series by Alchemy](https://www.youtube.com/watch?v=iM8AcSpIZGo) -- I'm taking notes on this [[web3-alchemy-course|here]]
 
 
