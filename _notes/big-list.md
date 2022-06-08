@@ -31,3 +31,4 @@ title: BIG LIST
 1. [generative garden art by Michael Zancan](https://www.instagram.com/zancan.code/)
 2. [tomas sanchez](https://www.instagram.com/tomassanchezstudio/?hl=en)
 3. [frederic edwin church](https://www.fredericedwinchurch.org/the-complete-works.html) and on [are.na](https://www.are.na/maxime-desalle/frederic-edwin-church)
+4. [content by connie zheng](https://www.conniezheng.com/)
