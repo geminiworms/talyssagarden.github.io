@@ -7,6 +7,7 @@ title: playground
 - [w3schools](https://www.w3schools.com/html/html_styles.asp)
 - [javatpoint](https://www.javatpoint.com/html-tutorial)
 - Google colorpicker
+- [jquery video tutorial series](https://www.youtube.com/watch?v=BaIgTKj1iCQ)
 
 speaking of colors, here's the ones I'm using on this site <br>
 <b>pinks:</b> <br>
