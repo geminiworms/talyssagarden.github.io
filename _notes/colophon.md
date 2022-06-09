@@ -22,3 +22,6 @@ I love the [jekyll bonsai template](https://jekyll-bonsai.netlify.app/post/0b9db
 
 #### i'm learning!
 Who knows if the site will ever have a final form. You can check out pieces that I'm working on building in my [[to do list]].
+
+#### moodboard
+1. [julie moon](https://www.juliemoon.info/)
