@@ -6,37 +6,27 @@ permalink: /
 ---
 <html>
 <head>
-<style>
-.row {
-  display: flex;
-}
+<script>
+var colours = ["#32AE4D", "#F2CF7D", "#0A2463", "#E46A3A", "#A30000", "#1672AB", "#FFD20A"], 
+    idx;
 
-.column {
-  flex: 20%;
-}
-</style>
+$(function() {
+    var div = $('#arch'); 
+    var chars = div.text().split('');
+    div.html('');     
+    for(var i=0; i<chars.length; i++) {
+        idx = Math.floor(Math.random() * colours.length);
+        var span = $('<span>' + chars[i] + '</span>').css("color", colours[idx]);
+        div.append(span);
+    }
+});
+</script>
 </head>
 <body>
+<h2><div id="arch">i guess i have to make sure this works first</div></h2>
 
-  <h1>this is talyssa's [[what-is-digital-gardening|digital garden]]</h1>
-
-<div class="row">
-  <div class="column">
-    <img src="assets/index/index1.png" style="width:100px">
-  </div>
-    <div class="column">
-    <img src="assets/index/index4.png" style="width:100px">
-  </div>
-  <div class="column">
-    <img src="assets/index/index2.png" style="width:100px">
-  </div>
-    <div class="column">
-    <img src="assets/index/index5.png" style="width:100px">
-  </div>
-  <div class="column">
-    <img src="assets/index/index3.png" style="width:100px">
-  </div>
-</div>
+</body>
+</html>
 
 {% include notes_graph.html %}
 
