@@ -10,15 +10,16 @@ permalink: /
 <script>
 var colours = ["#32AE4D", "#F2CF7D", "#0A2463", "#E46A3A", "#A30000", "#1672AB", "#FFD20A"], 
     idx;
-
-$(function() {
+$(document).ready(function(){
     var div = $('#arch'); 
     var chars = div.text().split('');
     div.html('');     
     for(var i=0; i<chars.length; i++) {
         idx = Math.floor(Math.random() * colours.length);
-        var span = $('<span>' + chars[i] + '</span>').css("color", colours[idx]);
+        var span = $('<span>' + chars[i] + '</span>').css("color", colours[idx])
         div.append(span);
+    }
+}
     }
 });
 </script>
