@@ -26,6 +26,7 @@ title: BIG LIST
 7. [decolonizing psychedelics](https://neo.life/2020/10/inside-the-movement-to-decolonize-psychedelic-pharma/)
 8. [the word for world is still forest](https://www.hkw.de/media/texte/pdf/publikationen_2/publikationen_3/intercalations4_the_word_for_world_is_still_forest.pdf)
 9. independent book store [reparations club](https://rep.club/)
+10. [teachings of the garden](https://www.schlebruegge.com/en/content/teachings-garden)
 
 #### look
 1. [generative garden art by Michael Zancan](https://www.instagram.com/zancan.code/)
