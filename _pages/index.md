@@ -6,6 +6,7 @@ permalink: /
 ---
 <html>
 <head>
+    <h2><div id="arch">i guess i have to make sure this works first</div></h2>
 <script>
 var colours = ["#32AE4D", "#F2CF7D", "#0A2463", "#E46A3A", "#A30000", "#1672AB", "#FFD20A"], 
     idx;
@@ -21,9 +22,7 @@ $(function() {
     }
 });
 </script>
-</head>
-<body>
-<h2><div id="arch">i guess i have to make sure this works first</div></h2>
+
 
 </body>
 </html>
