@@ -37,3 +37,4 @@ title: BIG LIST
 6. [soft.space](https://www.softspace.world/about.html)
 7. [feral.earth](http://feral.earth/)
 8. [a website is a room](https://a-website-is-a-room.net/)
+9. [how to run a small social media site for your friends](https://runyourown.social/)
