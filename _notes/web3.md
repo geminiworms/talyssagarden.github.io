@@ -15,4 +15,9 @@ As a scientist, my primary interests are in the development of [DeSci](https://w
 #### building
 1. Web3 Dev [course series by Alchemy](https://www.youtube.com/watch?v=iM8AcSpIZGo) -- I'm taking notes on this [[web3-alchemy-course|here]]
 
+#### moodboarding
+1. [DAO_archive](https://www.are.na/volt-96/dao_archive)
+2. [decentralized](https://www.are.na/block/12215121)
+3. [the historic development of network visualization](http://www.pfeffer.at/data/visposter/)
+4. [welcome to web3](https://www.are.na/bianca-aguilar/welcome-to-web3)
 
