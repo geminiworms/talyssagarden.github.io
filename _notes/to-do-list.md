@@ -9,6 +9,8 @@ Here's [my repo](https://github.com/geminiworms/geminiworms.github.io) for refer
 ### index:
 1. [[on celebration]] page is lacking the grid map! Maybe it has to do with the instagram post embeds? since that's probably the only unique thing i've added on that note in comparsion to others 
 2. I am trying to use jquery to make my index (homepage) more interesting
+3. stylistic updates to the home page
+4. date created in notes (i have last modified, but how to display the initial file commit date???)
 
 #### 2. using jquery on my homepage
 basically, i want to add some more interesting dynamics to the front page of the site... and js (rather [jquery](https://releases.jquery.com/)) seems like the most attainable way to go about this... to start, i'm trying to use jquery to randomize the colors of letters in a title text string. I'm following [this](https://stackoverflow.com/questions/20228961/how-to-make-each-letter-in-text-a-different-random-color-in-javascript) right now... and i was using this [youtube tutorial](https://www.youtube.com/watch?v=EwUOsRlDTLQ) to figure stuff out on a basic level. my code looks like this right now:
