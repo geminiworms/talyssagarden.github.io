@@ -7,3 +7,6 @@ title: AUDIO
 3. [[existential sounds]]
 4. [[astral-sounds|sounds from space]]
 5. [[on-impact|notes from 'go ahead in the rain' by hanif abdurraqib]]
+
+### articles to think about
+1. [My Psychiatrist is a DJ](https://neo.life/2022/03/my-psychiatrist-is-a-dj/)
