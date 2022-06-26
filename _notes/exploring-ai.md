@@ -6,6 +6,9 @@ title: exploring ai
 [dalle 2 by open ai](https://openai.com/dall-e-2/) is one i'm still waiting on access for
 [midjourney](https://www.midjourney.com/auth/signin/?callbackUrl=https%3A%2F%2Fwww.midjourney.com%2Faccount%2F%3FcallbackUrl%3Dhttps%253A%252F%252Fwww.midjourney.com%252Fapp%252F) is one i was just able to start playing with and it's extremely good at interpreting art styles
 
+#### and listing collections on [objkt](https://objkt.com/profile/talyssa/created)
+with little blurbs written on [mirror](https://mirror.xyz/0xdb1dF3aA51f714346A4D40f1cEdd72d3CdAE7e29)... however, rough drafts can be found [[here|objkt]]
+
 #### brain dumping prompts
 1. dreamscape hanging gardens of babylon, castle in the sky above the clouds, daytime, meditative  --ar 16:9
 2. eco brutalism technological society sunrise surrealism painting --ar 16:9
