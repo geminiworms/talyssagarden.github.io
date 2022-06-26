@@ -3,8 +3,8 @@ title: TECH
 ---
 ### index of technology-related notes 
 #### yes, it's separate from science... 
-1. [[Notes on Web3|w3]]
-2. [[Exploring AI]]
+1. [[web3|notes on web3]]
+2. [[exploring AI]]
 
 
 ### articles to revisit
