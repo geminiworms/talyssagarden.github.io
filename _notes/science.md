@@ -9,6 +9,7 @@ title: SCIENCE
 3. [[science reading|unrequired required reading: a list of books for people who care about better science]]
 4. [[fight-or-flight|long term consequences of fight or flight states]]
 5. [[astral-sounds|sounds from space]]
+6. [[the botanical mind|botanical-mind]]
 
 
 #### Things I'm interested in exploring more
