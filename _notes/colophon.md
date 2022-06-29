@@ -15,7 +15,9 @@ I actually didn't change much. Minor edits for fonts and colors were added to th
 
 
 #### honorable mentions
-I love the [jekyll bonsai template](https://jekyll-bonsai.netlify.app/post/0b9db15818/#clone) by manunamz, and originally tried using it for my own site. I ultimately decided against it (clearly) because I'm unsure if my garden is going to need so much metadata.
+1. I love the [jekyll bonsai template](https://jekyll-bonsai.netlify.app/post/0b9db15818/#clone) by manunamz, and originally tried using it for my own site. I ultimately decided against it (clearly) because I'm unsure if my garden is going to need so much metadata.
+2. I also am a big fan of [tom critchlow's wiki](https://tomcritchlow.com/wiki/) which runs on the code in [this repo](https://github.com/tomcritchlow/tomcritchlow.github.io)
+3. definitely take the time to explore maggie appleton's [github repo](https://github.com/MaggieAppleton/digital-gardeners) on digital gardening
 
 #### disclaimer
 *I have no web dev coding experience at all... unless you count tumblr html. However, I am a novice in bioinformatics so I started this endeavor with basic understanding of git, bash, and directory management. If you follow the [Virtual Goods Dealer](https://pages.virtualgoodsdealer.com/articles/2020/11/16/simple-website-tutorial-part-one/) static website tutorial from the beginning, I believe you will have all the basic understanding necessary to get your garden going. Otherwise, I am also here to help!*
