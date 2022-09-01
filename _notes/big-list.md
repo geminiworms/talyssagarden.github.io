@@ -9,6 +9,7 @@ title: BIG LIST
 2. [memories of murder](https://www.youtube.com/watch?v=0n_HQwQU8ls)
 3. [Charlie Kaufman screenwriters' lecture](https://youtu.be/EKU8xsC8goY)
 4. [cinemarii's film lists](https://www.youtube.com/user/aril123)
+5. [made in abyss](https://en.wikipedia.org/wiki/Made_in_Abyss)
 
 #### listen
 1. [feeling asian podcast](https://open.spotify.com/show/19xkU2nVYC39nhig9Jvbc4?si=c480b6075a26445a)
