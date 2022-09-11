@@ -10,6 +10,7 @@ title: SCIENCE
 4. [[fight-or-flight|long term consequences of fight or flight states]]
 5. [[astral-sounds|sounds from space]]
 6. [[the botanical mind]]
+7. [[psychedelics|notes on psychedelics]]
 
 
 #### Things I'm interested in exploring more
