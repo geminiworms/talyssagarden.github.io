@@ -45,7 +45,7 @@ permalink: /
     <div class="right-column">
       <p>recent edits:</p>
       <ul>
-        {% assign sorted_pages = site.pages | where: "path", "contains", "_notes" | sort: "last_modified_at" %}
+        {% assign sorted_pages = site.notes | sort: "last_modified_at" %}
         {% for i in (0..9) %}
           {% assign page = sorted_pages[i] %}
           <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%Y-%m-%d" }})</li>
