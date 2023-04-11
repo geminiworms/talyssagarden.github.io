@@ -43,6 +43,7 @@ permalink: /list
 9. [how to run a small social media site for your friends](https://runyourown.social/)
 10. [fuse.kiwi creative digital reference archive](https://www.fuse.kiwi/)
 11. [symphony in acid](https://symphonyinacid.net/)
+12. [jonas luebbers, creative developer](jonasluebbers.com)
 
 #### tools
 1. [space type generator](https://spacetypegenerator.com/)
