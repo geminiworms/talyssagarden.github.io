@@ -4,32 +4,57 @@ title: home
 id: home
 permalink: /
 ---
+<!DOCTYPE html>
 <html>
 <head>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous </script>
+  <meta charset="UTF-8">
+  <title>Talyssa's Digital Garden</title>
+  <style>
+    /* Define the layout of the two columns */
+    .container {
+      display: flex;
+      flex-direction: row;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    .left-column {
+      width: 70%;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    .right-column {
+      width: 30%;
+      background-color: #f1f1f1;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    /* Style the recent edits list */
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+  </style>
 </head>
 <body>
-    <h1>This is Talyssa's <a class="internal-link" href="/what-is-digital-gardening">Digital Garden</a></h1>
-    <p>Recent edits:</p>
+  <div class="container">
+    <div class="left-column">
+      <h1>This is Talyssa's <a class="internal-link" href="/what-is-digital-gardening">Digital Garden</a></h1>
+      <p>Welcome to my digital garden! Here, you'll find my thoughts, ideas, and notes on various topics. I hope you find something interesting!</p>
+    </div>
+    <div class="right-column">
+      <p>recent edits:</p>
+      <ul>
         {% assign sorted_pages = site.pages | where: "path", "_notes" | sort: "last_modified_at" %}
         {% for i in (sorted_pages | size | minus:20)..(sorted_pages | size) %}
-            {% assign page = sorted_pages[i] %}
-            <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%Y-%m-%d" }})</li>
+        {% assign page = sorted_pages[i] %}
+        <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%Y-%m-%d" }})</li>
         {% endfor %}
-    <script>
-        var colours = ["#32AE4D", "#F2CF7D", "#0A2463", "#E46A3A", "#A30000", "#1672AB", "#FFD20A"],
-            idx;
-        $(document).ready(function(){
-            var body = $('body'); 
-            var chars = body.text().split('');
-            body.html('');     
-            for(var i=0; i<chars.length; i++) {
-                idx = Math.floor(Math.random() * colours.length);
-                var span = $('<span>' + chars[i] + '</span>').css("color", colours[idx]);
-                body.append(span);
-            }
-        });
-    </script>
+      </ul>
+    </div>
+  </div>
 </body>
 </html>
 
