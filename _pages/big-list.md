@@ -1,5 +1,7 @@
 ---
-title: BIG LIST
+layout: page
+title: big list
+permalink: /list
 ---
 
 ### stuff i find in a fleeting moment, stuff my friends share, stuff i want to come back to
