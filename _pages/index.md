@@ -4,7 +4,6 @@ title: home
 id: home
 permalink: /
 ---
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
@@ -24,7 +23,6 @@ permalink: /
     }
     .right-column {
       width: 30%;
-      background-color: #f1f1f1;
       padding: 20px;
       box-sizing: border-box;
     }
@@ -47,7 +45,7 @@ permalink: /
     <div class="right-column">
       <p>recent edits:</p>
       <ul>
-        {% assign sorted_pages = site.pages | where: "path", "_notes" | sort: "last_modified_at" %}
+        {% assign sorted_pages = site.pages | where_exp: "page", "page.path contains '/notes'" | sort: "last_modified_at" %}
         {% for i in (sorted_pages | size | minus:20)..(sorted_pages | size) %}
         {% assign page = sorted_pages[i] %}
         <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%Y-%m-%d" }})</li>
