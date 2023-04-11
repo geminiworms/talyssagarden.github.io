@@ -25,7 +25,7 @@ permalink: /
       width: 30%;
       padding: 10px;
       box-sizing: border-box;
-      font-size: 14px;
+      font-size: 16px;
     }
     /* Style the recent edits list */
     ul {
@@ -44,7 +44,7 @@ permalink: /
       <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts<br>everything that exists in the garden can be found <a class="internal-link" href="/web">here</a></p>
     </div>
     <div class="right-column">
-      <p><h4>like a real garden,</h4><br>this space is always changing.<br>here's a log of my<b>recently edited notes</b>to see what i've tended to lately</p>
+      <p><h3>like a real garden,</h3><br>this space is always changing. here's a log of my <b>recently edited notes</b> to see what i've tended to lately:</p>
       <ul>
         {% assign sorted_pages = site.notes | sort: "last_modified_at" %}
         {% for i in (0..9) %}
