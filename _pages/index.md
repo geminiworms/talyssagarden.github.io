@@ -6,20 +6,16 @@ permalink: /
 ---
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>Talyssa's Digital Garden</title>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous </script>
 </head>
 <body>
     <h1>This is Talyssa's <a class="internal-link" href="/what-is-digital-gardening">Digital Garden</a></h1>
     <p>Recent edits:</p>
-    <ul>
         {% assign sorted_pages = site.pages | where: "path", "_notes" | sort: "last_modified_at" %}
         {% for i in (sorted_pages | size | minus:20)..(sorted_pages | size) %}
             {% assign page = sorted_pages[i] %}
             <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%Y-%m-%d" }})</li>
         {% endfor %}
-    </ul>
     <script>
         var colours = ["#32AE4D", "#F2CF7D", "#0A2463", "#E46A3A", "#A30000", "#1672AB", "#FFD20A"],
             idx;
