@@ -9,7 +9,7 @@ permalink: /
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 </head>
 <body>
-    <h2><div id="arch">this is talyssa's [[what-is-digital-gardening|digital garden]]</div></h2>
+    <h1><div id="arch">this is talyssa's <a class="internal-link" href="/what-is-digital-gardening">digital garden</a></div></h1>
     <script>
         var colours = ["#32AE4D", "#F2CF7D", "#0A2463", "#E46A3A", "#A30000", "#1672AB", "#FFD20A"],
             idx;
@@ -26,9 +26,6 @@ permalink: /
     </script>                                
 </body>
 </html>
-
-
-{% include notes_graph.html %}
 
 
 <style>
