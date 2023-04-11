@@ -41,10 +41,10 @@ permalink: /
   <div class="container">
     <div class="left-column">
       <h1>this is talyssa's <a class="internal-link" href="/what-is-digital-gardening">digital garden</a></h1>
-      <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts<br>everything that exists here can be found <a class="internal-link" href="/web">here</a></p>
+      <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts<br>everything that exists in the garden can be found <a class="internal-link" href="/web">here</a></p>
     </div>
     <div class="right-column">
-      <p><b>recent edits:</b></p>
+      <p>i use this space when i need it which means it'll sometimes sit in silence for months on end...<br>regardless, here are my<b>recently edited notes:</b></p>
       <ul>
         {% assign sorted_pages = site.notes | sort: "last_modified_at" %}
         {% for i in (0..9) %}
