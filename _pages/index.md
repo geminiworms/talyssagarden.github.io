@@ -41,7 +41,7 @@ permalink: /
   <div class="container">
     <div class="left-column">
       <h1>this is talyssa's <a class="internal-link" href="/what-is-digital-gardening">digital garden</a></h1>
-      <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts<br>the full network of pieces stored in this garden can be found <a class="internal-link" href="/what-is-digital-gardening">here</a></p>
+      <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts<br>the full network of pieces stored in this garden can be found <a class="internal-link" href="/web">here</a></p>
     </div>
     <div class="right-column">
       <p>recent edits:</p>
