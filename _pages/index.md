@@ -17,13 +17,13 @@ permalink: /
       margin: 0 auto;
     }
     .left-column {
-      width: 70%;
-      padding: 20px;
+      width: 60%;
+      padding: 10px;
       box-sizing: border-box;
     }
     .right-column {
-      width: 30%;
-      padding: 20px;
+      width: 40%;
+      padding: 10px;
       box-sizing: border-box;
     }
     /* Style the recent edits list */
