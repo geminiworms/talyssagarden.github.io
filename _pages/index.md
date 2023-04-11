@@ -17,12 +17,12 @@ permalink: /
       margin: 0 auto;
     }
     .left-column {
-      width: 60%;
+      width: 70%;
       padding: 10px;
       box-sizing: border-box;
     }
     .right-column {
-      width: 40%;
+      width: 30%;
       padding: 10px;
       box-sizing: border-box;
       font-size: 14px;
@@ -40,8 +40,8 @@ permalink: /
 <body>
   <div class="container">
     <div class="left-column">
-      <h1>This is Talyssa's <a class="internal-link" href="/what-is-digital-gardening">Digital Garden</a></h1>
-      <p>Welcome to my digital garden! Here, you'll find my thoughts, ideas, and notes on various topics. I hope you find something interesting!</p>
+      <h1>this is talyssa's <a class="internal-link" href="/what-is-digital-gardening">digital garden</a></h1>
+      <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts<br>the full network of pieces stored in this garden can be found <a class="internal-link" href="/what-is-digital-gardening">here</a></p>
     </div>
     <div class="right-column">
       <p>recent edits:</p>
