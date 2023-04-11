@@ -44,10 +44,10 @@ permalink: /
       <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts<br>everything that exists in the garden can be found <a class="internal-link" href="/web">here</a></p>
     </div>
     <div class="right-column">
-      <p><h3>like a real garden,</h3><br>this space is always changing. here's a log of my <b>recently edited notes</b> to see what i've tended to lately:</p>
+      <p><h3>like a real garden,</h3>this space is always changing. here's a log of my <b>recently edited notes</b> to see what i've tended to lately:</p>
       <ul>
         {% assign sorted_pages = site.notes | sort: "last_modified_at" %}
-        {% for i in (0..9) %}
+        {% for i in (0..4) %}
           {% assign page = sorted_pages[i] %}
           <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%Y-%m-%d" }})</li>
         {% endfor %}
