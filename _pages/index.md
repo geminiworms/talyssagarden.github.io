@@ -44,7 +44,7 @@ permalink: /
       <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts<br>the full network of pieces stored in this garden can be found <a class="internal-link" href="/web">here</a></p>
     </div>
     <div class="right-column">
-      <p>recent edits:</p>
+      <p><b>recent edits:</b></p>
       <ul>
         {% assign sorted_pages = site.notes | sort: "last_modified_at" %}
         {% for i in (0..9) %}
