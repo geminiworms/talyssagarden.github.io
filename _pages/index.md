@@ -27,6 +27,13 @@ permalink: /
 </body>
 </html>
 
+<ul>
+<h3><div id="arch">recent edits</div></h3>
+{% assign sorted_pages = site.pages | sort: "last_modified_at" | reverse %}
+{% for page in sorted_pages limit:10 %}
+  <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%Y-%m-%d" }})</li>
+{% endfor %}
+</ul>
 
 <style>
   .wrapper {
