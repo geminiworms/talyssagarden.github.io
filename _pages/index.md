@@ -45,13 +45,13 @@ permalink: /
     <div class="right-column">
       <p>recent edits:</p>
       <ul>
-        {% assign sorted_pages = site.pages | where: "dir", "/notes/" | sort: "last_modified_at" %}
-        {% for i in (sorted_pages | size | minus:20)..(sorted_pages | size) %}
-          {% assign page = sorted_pages[i] %}
-          <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%Y-%m-%d" }})</li>
-        {% endfor %}
-
+      {% assign sorted_pages = site.pages | where: "path", "_notes" | sort: "last_modified_at" %}
+      {% for i in (0..9) %}
+        {% assign page = sorted_pages[i] %}
+        <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%Y-%m-%d" }})</li>
+      {% endfor %}
       </ul>
+
     </div>
   </div>
 </body>
