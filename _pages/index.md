@@ -41,7 +41,7 @@ permalink: /
   <div class="container">
     <div class="left-column">
       <h1>this is talyssa's <a class="internal-link" href="/what-is-digital-gardening">digital garden</a></h1>
-      <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts<br>everything that exists in the garden can be found <a class="internal-link" href="/web">here</a></p> <img src="/assets/mini-graphics/sprout.gif" style="padding: 0px 0px 0px 0px;">
+      <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts. everything that exists in the garden can be visualized in a web, which you can find <a class="internal-link" href="/web">here</a></p> <img src="/assets/mini-graphics/sprout.gif" style="padding: 0px 0px 0px 0px;">
     </div>
     <div class="right-column">
       <p><h3>like a real garden,</h3>this space is always changing. here's a log of my <b>recently edited notes</b> to see what i've tended to lately:</p>
