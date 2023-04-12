@@ -53,6 +53,7 @@ permalink: /
         {% endfor %}
       </ul>
       <hr>
+      <p> dont mind me... trying to figure out why things aren't actually sorting in chronological order!</p>
       {% assign sorted_notes = site.notes | sort: "last_modified_at" | reverse %}
       <ul>
        {% for note in sorted_notes %}
