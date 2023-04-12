@@ -46,10 +46,10 @@ permalink: /
     <div class="right-column">
       <p><h3>like a real garden,</h3>this space is always changing. here's a log of my <b>recently edited notes</b> to see what i've tended to lately:</p>
       <ul>
-        {% assign sorted_pages = site.notes | sort: "last_modified_at" %}
+        {% assign sorted_notes = site.notes | sort: "last_modified_at" %}
         {% for i in (0..4) %}
-          {% assign page = sorted_pages[i] %}
-          <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%Y-%m-%d" }})</li>
+          {% assign page = sorted_notes[i] %}
+          <li><a href="{{ note.url }}">{{ note.title }}</a> ({{ note.last_modified_at | date: "%d-%m-%Y" }})</li>
         {% endfor %}
       </ul>
 
