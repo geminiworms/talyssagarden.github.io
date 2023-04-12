@@ -43,6 +43,7 @@ basically, i want to add some more interesting dynamics to the front page of the
 and clearly it's not really working out... but we'll see what happens. For reference (when I go and reopen all these tabs), I'm also skimming through [this resource](https://www.w3schools.com/js/js_htmldom.asp) for jquery x html/css background. 
 
 #### 3. troubleshooting the list on my homepage for most recently updated notes
+I cant get things to sort in chronological order!! [this issue](https://github.com/gjtorikian/jekyll-last-modified-at/issues/70) is the same one i'm having but of course there's no posted solution...
 
 
 ### finished!
