@@ -54,9 +54,9 @@ permalink: /
       </ul>
       <hr>
       <ul>
-        {% assign sorted_notes = site.notes | sort: "last_modified_at" | reverse %}
+        {% assign sorted_notes = site.notes | sort: "last_modified_at" | last_modified_date_sort: false %}
         {% for note in sorted_notes %}
-         <li><a href="{{ note.url }}">{{ note.title }}</a> ({{ note.last_modified_at | date: "%B %-d, %Y" }})</li>
+         <li><a href="{{ note.url }}">{{ note.title }}</a> ({{ note.last_modified_at | date: "%B %-d"}})</li>
        {% endfor %}
       </ul>
 
