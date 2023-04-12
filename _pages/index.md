@@ -49,7 +49,7 @@ permalink: /
         {% assign sorted_notes = site.notes | sort: "last_modified_at" %}
         {% for i in (0..4) %}
           {% assign page = sorted_notes[i] %}
-          <li><a href="{{ notes.url }}">{{ notes.title }}</a> ({{ notes.last_modified_at | date: "%d-%m-%Y" }})</li>
+          <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%d-%m-%Y" }})</li>
         {% endfor %}
       </ul>
 
