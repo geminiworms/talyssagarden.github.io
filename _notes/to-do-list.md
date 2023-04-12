@@ -42,10 +42,10 @@ basically, i want to add some more interesting dynamics to the front page of the
 ```
 and clearly it's not really working out... but we'll see what happens. For reference (when I go and reopen all these tabs), I'm also skimming through [this resource](https://www.w3schools.com/js/js_htmldom.asp) for jquery x html/css background. 
 
-#### 3. updates to home page
-- local visit date
-- guestbook
+#### 3. troubleshooting the list on my homepage for most recently updated notes
+
 
 ### finished!
 1. I used this code for a [responsive photo grid](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp) to create a image gallery inspired by [alisa.wtf's photo galleries](https://alisa.wtf/plants). Some code I also considered using was [this guide](https://dmnfarrell.github.io/software/jekyll-galleries) for a photo gallery `_includes` situation... Ideally, it would've been a generative loop the read photo files out of a directory, but it seems like for now, I'm just working with it as a local grid.
 2. I added a site thumbnail using `<meta property="og:image" content="path" />` in my `head.html` file
+3. I made updates to my home page by creating columns, and then included a better flow into the concept of a digital garden. I also made a few aesthetic changes.
