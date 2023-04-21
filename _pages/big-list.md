@@ -31,6 +31,7 @@ permalink: /list
 9. independent book store [reparations club](https://rep.club/)
 10. [teachings of the garden](https://www.schlebruegge.com/en/content/teachings-garden)
 11. [work by James Somers](https://jsomers.net/) --> [i should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
+12. [nikita voloboev's notes on writing simply](https://wiki.nikiv.dev/writing/)
 
 #### look
 1. [generative garden art by Michael Zancan](https://www.instagram.com/zancan.code/)
