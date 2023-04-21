@@ -15,4 +15,8 @@ I'm also just a feind for long form content and I've been dissatisfied with curr
 #### Here's a running list of digital gardens I enjoy:
 1. [Alisa.wtf](https://alisa.wtf)
 2. [Tom Critchlow](https://tomcritchlow.com/wiki/)
-3. [are.na board on 'creating digital gardens](https://www.are.na/annika-hansteen-izora/creating-digital-gardens)
+3. [Maggie Appleton's digital gardening repo](https://github.com/MaggieAppleton/digital-gardeners)
+4. [are.na board on 'creating digital gardens](https://www.are.na/annika-hansteen-izora/creating-digital-gardens)
+
+#### And some references & tools for digital curation
+1. [Tom Critchlow on Wikis](https://tomcritchlow.com/wiki/wikis/)
