@@ -30,6 +30,7 @@ permalink: /list
 8. [the word for world is still forest](https://www.hkw.de/media/texte/pdf/publikationen_2/publikationen_3/intercalations4_the_word_for_world_is_still_forest.pdf)
 9. independent book store [reparations club](https://rep.club/)
 10. [teachings of the garden](https://www.schlebruegge.com/en/content/teachings-garden)
+11. [work by James Somers](https://jsomers.net/) --> [i should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 
 #### look
 1. [generative garden art by Michael Zancan](https://www.instagram.com/zancan.code/)
