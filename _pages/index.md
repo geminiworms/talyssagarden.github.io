@@ -54,12 +54,21 @@ permalink: /
       </ul>
       <hr>
       <p> dont mind me... trying to figure out why things aren't actually sorting in chronological order!</p>
+     <ul>
+       {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
+       {% for note in recent_notes limit: 5 %}
+         <li>
+           {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
+          </li>
+       {% endfor %}
+      </ul>
       {% assign sorted_notes = site.notes | sort: "last_modified_at" | reverse %}
       <ul>
        {% for note in sorted_notes %}
           <li><a href="{{ note.url }}">{{ note.title }}</a> ({{ note.last_modified_at | date: "%-m-%-d-%y" }})</li>
         {% endfor %}
       </ul>
+    
 
 
 
