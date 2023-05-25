@@ -15,5 +15,6 @@ title: SCIENCE
 
 #### Things I'm interested in exploring more
 1. Science communication: SciComm is a big deal in academia, but I believe it's still missing its target audience. What are the limitations of SciComm and how can we circumnavigate issues of accessibility and appeal?
-2. Decentralized science: DeSci summer 2022 B)... unless onboarding can't be simplified. What are the implications of a major scientific revolution centered (or not) around open access and public involvement?
-3. 
+2. Community science and what it takes to normalize open/recreational lab spaces (such as [GenSpaceNY](https://www.genspace.org/))
+3. Science-art endeavors/residencies ([SVABioArt](https://bioart.sva.edu/)
+
