@@ -42,16 +42,6 @@ permalink: /
     <div class="left-column">
       <h1>this is talyssa's <a class="internal-link" href="/what-is-digital-gardening">digital garden</a></h1>
       <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts. everything that exists in the garden can be visualized in a web, which you can find <a class="internal-link" href="/web">here</a> <img src="/assets/mini-graphics/sprout.gif" style="padding: 0px 0px 0px 0px;"><br><i>thanks for stopping by! please leave a note <a class="external-link" href="https://www.yourworldoftext.com/~talyssa.txt/">in my guestbook</a> if you wish</i></p>
-      <p><h3>a few random notes:</h3></p>
-        {% assign notes_pages = site.notes %}
-        {% assign random_pages = notes_pages | sample: 5 %}
-
-          <ul>
-            {% for page in random_pages %}
-              <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%B %-d, %Y" }})</li>
-             {% endfor %}
-          </ul>
-    </div>
     <div class="right-column">
       <p><h3>like a real garden,</h3>this space is always growing and evolving. Here are my <b>indexes</b> that can help you move through this space:</p><br>
     <a class="internal-link" href="/site-meta">site meta</a><br>
@@ -60,19 +50,16 @@ permalink: /
     <a class="internal-link" href="/audio">audio</a><br>
     <a class="internal-link" href="/tech">tech</a><br>
     <a class="internal-link" href="/reads">reads</a><br>
+        <p><h3>a few random notes:</h3></p>
+        {% assign notes_pages = site.notes %}
+        {% assign random_pages = notes_pages | sample: 5 %}
 
-
-
-
-        
-    
-    
-    
-    
-
-    
-
-
+          <ul>
+            {% for page in random_pages %}
+              <li><a href="{{ page.url }}">{{ page.title }}</a> ({{ page.last_modified_at | date: "%B %-d, %Y" }})</li>
+             {% endfor %}
+          </ul>
+  </div>
 
     </div>
   </div>
