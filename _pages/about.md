@@ -3,10 +3,8 @@ layout: page
 title: About
 permalink: /about
 ---
-I'm Talyssa, thanks for stopping by.
-<br>
+#### I'm Talyssa, thanks for stopping by.
 I'm writing to you from my messy little desk in my messy little studio apartment in too-expensive-for-an-early-career-mid-twenty-year-old-in-student-debt <i>Southern California</i>.<br>
-<br>
 But the way I describe myself to you kind of depends on why you're here... <br> <img src="/assets/aboutme.png" align="left" style="padding: 10px 20px 10px 0px; height:500px;">
 
 #### ...I'm here because I'm interested in your [[science|work]]
