@@ -49,6 +49,7 @@ permalink: /list
 13. [@hotemogf's website](https://chia.design/)
 
 #### tools
-1. [space type generator](https://spacetypegenerator.com/)
-2. [schultzschultz tools](https://www.schultzschultz.com/tools.html)
-3. [developh](https://developh.org/)
+1. [w3schools try it editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic) *i use this a lot*
+2. [space type generator](https://spacetypegenerator.com/)
+3. [schultzschultz tools](https://www.schultzschultz.com/tools.html)
+4. [developh](https://developh.org/)
