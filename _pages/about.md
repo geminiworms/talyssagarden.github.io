@@ -3,20 +3,43 @@ layout: page
 title: About
 permalink: /about
 ---
-#### I'm Talyssa, thanks for stopping by.
-I'm writing to you from my messy little desk in my messy little studio apartment in too-expensive-for-an-early-career-mid-twenty-year-old-in-student-debt <i>Southern California</i>.<br>
-But the way I describe myself to you kind of depends on why you're here... <br> <img src="/assets/aboutme2.jpg" align="left" style="padding: 10px 20px 10px 0px; height:500px;">
-
-#### ...I'm here because I'm interested in your [[science|work]]
-Great! I'm a PhD Candidate in Microbiolgy. I did my B.S. in Biology & minor in Biochemistry at Loyola Marymount University. I thought I was pre-med *(didn't we all?)* until I started my research in plant-microbial symbioses (specifically, N-fixation of rhizobacterium in sweet pea). You can take a look at my previous research experiences on my [annually updated linkedin](https://www.linkedin.com/in/talyssa-topacio-190012147/). My applications for grad school were absolute shots in the dark... I completely pivoted into human-microbial symbioses, got myself admitted, and now here I am; full *PhD Candidate*. My current project sits at the interface of clinical and environmental microbiogy with intention to examine the lung microbiome in the context of environmental dust exposures. If you're interested in chatting more about this stuff, connect with me on [twitter](https://twitter.com/T4LYSSA).
-
-#### ...I'm here because you forced me to be here
-Well, I'm kind of proud of this... <br>
-It took me a week to build this functional site. It's a WIP forever, but it feels good to get it breathing. It was pain -- *so much pain* -- trying to understand what to do with all this code. I probably forced you to be here because I want you to think "oh she's kind of functional isn't she?".
-  
-#### ...I'm here because I'm stalking you on the internet and I'm in too deep
-That's fine, I understand. I hope you learned something interesting about me. Do you remember 2011 internet? Stuff from that era is absolutely irreplaceable. If we could time travel, I'd ask you to anonymously slide into my tumblr messages to tell me about your journey through my digital labyrinth (but if you actually want to chase that high, I've set up a [guestbook](https://www.yourworldoftext.com/~talyssa.txt/)). I'm assuming that in order to end up here, you've already weeded through [my instagram](https://instagram.com/talyssa.jpg). If you're looking for more content, you can skim through my [carrd](https://talyssa.carrd.co). I'm also an avid [goodreads](https://www.goodreads.com/user/show/10533005-talyssa).
-
-#### ...tbh I have no idea what I'm doing here
-Perfect. You're my favorite visitor *(but don't tell the others)*. The [[what-is-digital-gardening|digital garden]] is a place to meander and get lost. It's a place where fleeting thoughts and full scale essays are loved equally. Come as you are and take what you wish.   
-
+<head>
+  <meta charset="UTF-8">
+  <style>
+    /* Define the layout of the three columns */
+    .container {
+      display: flex;
+      flex-direction: row;
+      max-width: 100%;
+      margin: 0 auto;
+    }
+    .column {
+      flex: 1;
+      padding: 5px;
+      box-sizing: border-box;
+    }
+    /* Style the columns */
+    .column:nth-child(1) {
+    }
+    .column:nth-child(2) {
+    }
+    .column:nth-child(3) {
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="column">
+      <h2>heading for column 1</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    </div>
+    <div class="column">
+      <h2>this is column 2</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet dictum sit amet. Diam ut venenatis tellus in metus. Ante metus dictum at tempor commodo ullamcornare quam viverra orci. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi. Facilisis volutpat est velit egestas dui id ornare arcu odio.</p>
+    </div>
+    <div class="column">
+      <h2>here's the third</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet dictum sit amet. Diam ut venenatis tellus in metus. Ante metus dictum at tempor commodo ullamcorper. Tortor pretium viverra suspendisse potenti nullam. Adipiscing tristique risus nec feugiat. In iaculis nunc sed augue lacus viversus risus at ultrices mi. Facilisis volutpat est velit egestas dui id ornare arcu odio.</p>
+    </div>
+  </div>
+</body>
