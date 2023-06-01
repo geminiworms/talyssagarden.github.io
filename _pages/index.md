@@ -18,13 +18,13 @@ permalink: /
       margin: 0 auto;
     }
     .left-column {
-      width: 60%;
-      padding: 5px;
+      flex: 70%;
+      padding: 10px;
       box-sizing: border-box;
     }
     .right-column {
-      width: 40%;
-      padding: 5px;
+      flex: 30%;
+      padding: 10px;
       box-sizing: border-box;
       font-size: 16px;
     }
@@ -61,6 +61,13 @@ permalink: /
         {% endfor %}
       </ul>
     </div>
+  </div>
+</body>
+</html>
+
+  <div class="additional-content">
+    <h2>here's another container with a heading</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
   </div>
 </body>
 </html>
