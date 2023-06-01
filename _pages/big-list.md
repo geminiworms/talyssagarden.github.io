@@ -6,6 +6,27 @@ permalink: /list
 
 ### stuff i find in a fleeting moment, stuff my friends share, stuff i want to come back to
 
+#### look
+1. [generative garden art by Michael Zancan](https://www.instagram.com/zancan.code/)
+2. [tomas sanchez](https://www.instagram.com/tomassanchezstudio/?hl=en)
+3. [frederic edwin church](https://www.fredericedwinchurch.org/the-complete-works.html) and on [are.na](https://www.are.na/maxime-desalle/frederic-edwin-church)
+4. [content by connie zheng](https://www.conniezheng.com/)
+5. [writing coastlines, phd thesis by j.r. carpenter](http://writingcoastlines.net/)
+6. [soft.space](https://www.softspace.world/about.html)
+7. [feral.earth](http://feral.earth/)
+8. [a website is a room](https://a-website-is-a-room.net/)
+9. [how to run a small social media site for your friends](https://runyourown.social/)
+10. [fuse.kiwi creative digital reference archive](https://www.fuse.kiwi/)
+11. [symphony in acid](https://symphonyinacid.net/)
+12. [jonas luebbers, creative developer](jonasluebbers.com)
+13. [@hotemogf's website](https://chia.design/)
+
+#### tools
+1. [w3schools try it editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic) *i use this a lot*
+2. [space type generator](https://spacetypegenerator.com/)
+3. [schultzschultz tools](https://www.schultzschultz.com/tools.html)
+4. [developh](https://developh.org/)
+
 #### watch
 1. [drive my car](https://www.youtube.com/watch?v=6BPKPb_RTwI)
 2. [memories of murder](https://www.youtube.com/watch?v=0n_HQwQU8ls)
@@ -33,23 +54,3 @@ permalink: /list
 11. [work by James Somers](https://jsomers.net/) --> [i should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 12. [nikita voloboev's notes on writing simply](https://wiki.nikiv.dev/writing/)
 
-#### look
-1. [generative garden art by Michael Zancan](https://www.instagram.com/zancan.code/)
-2. [tomas sanchez](https://www.instagram.com/tomassanchezstudio/?hl=en)
-3. [frederic edwin church](https://www.fredericedwinchurch.org/the-complete-works.html) and on [are.na](https://www.are.na/maxime-desalle/frederic-edwin-church)
-4. [content by connie zheng](https://www.conniezheng.com/)
-5. [writing coastlines, phd thesis by j.r. carpenter](http://writingcoastlines.net/)
-6. [soft.space](https://www.softspace.world/about.html)
-7. [feral.earth](http://feral.earth/)
-8. [a website is a room](https://a-website-is-a-room.net/)
-9. [how to run a small social media site for your friends](https://runyourown.social/)
-10. [fuse.kiwi creative digital reference archive](https://www.fuse.kiwi/)
-11. [symphony in acid](https://symphonyinacid.net/)
-12. [jonas luebbers, creative developer](jonasluebbers.com)
-13. [@hotemogf's website](https://chia.design/)
-
-#### tools
-1. [w3schools try it editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic) *i use this a lot*
-2. [space type generator](https://spacetypegenerator.com/)
-3. [schultzschultz tools](https://www.schultzschultz.com/tools.html)
-4. [developh](https://developh.org/)
