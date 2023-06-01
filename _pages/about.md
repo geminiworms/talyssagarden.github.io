@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
+<html>
 <head>
   <meta charset="UTF-8">
   <style>
@@ -43,3 +44,4 @@ permalink: /about
     </div>
   </div>
 </body>
+</html>
