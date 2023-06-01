@@ -46,7 +46,9 @@ permalink: /list
 10. [fuse.kiwi creative digital reference archive](https://www.fuse.kiwi/)
 11. [symphony in acid](https://symphonyinacid.net/)
 12. [jonas luebbers, creative developer](jonasluebbers.com)
+13. [@hotemogf's website](https://chia.design/)
 
 #### tools
 1. [space type generator](https://spacetypegenerator.com/)
 2. [schultzschultz tools](https://www.schultzschultz.com/tools.html)
+3. [developh](https://developh.org/)
