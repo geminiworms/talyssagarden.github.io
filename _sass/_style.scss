@@ -4,7 +4,7 @@ $color-subtext: #000000;
 $color-border: hsl(0, 0%, 85%);
 $color-box-background: #ffedf5;
 $border-radius: 4px;
-$font-family: Courier, serif;
+$font-family: Courier New, sans-serif;
 
 body {
   box-sizing: content-box;
@@ -14,7 +14,7 @@ body {
   padding: 4vh 6vw;
   overflow-x: hidden;
   color: $color-text;
-  background-color: #fcfaf5;
+  background-color: #ffffff; /* alternate: fcfaf5 */
   font-size: 1rem;
   max-width: 63em;
 
