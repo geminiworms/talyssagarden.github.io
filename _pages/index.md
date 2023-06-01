@@ -14,19 +14,18 @@ permalink: /
     .container {
       display: flex;
       flex-direction: row;
-      max-width: 1000px;
+      max-width: 100%;
       margin: 0 auto;
     }
     .left-column {
-      width: 70%;
-      padding: 10px;
+      width: 60%;
+      padding: 5px;
       box-sizing: border-box;
     }
     .right-column {
-      width: 30%;
-      padding: 10px;
+      width: 40%;
+      padding: 5px;
       box-sizing: border-box;
-      font-size: 16px;
     }
     /* Style the recent edits list */
     ul {
