@@ -41,8 +41,8 @@ permalink: /
 <body>
   <div class="container">
     <div class="left-column">
-      <h1>this is Talyssa's <a class="internal-link" href="/what-is-digital-gardening">digital garden</a></h1>
-      <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts. it's a personalized wiki, and it works similarly to a scrap journal or a commonplace book (see: <a class="external-link" href="https://youtu.be/aaHEgPk0tNM">this</a>, <a class="external-link" href="https://youtu.be/XFUQJtOcras">this</a>, and <a class="external-link" href="https://youtu.be/T_S7Uiy03pw?t=731">this</a>) except that it's completely online and very easy to keep in tangent to my analog systems. i started this garden in 2022 out of curiousity and its relevance in my life waxes and wanes depending on what i'm interested in and working on. <br>everything that exists in the garden can be visualized in a web, which you can find <a class="internal-link" href="/web">here</a> <img src="/assets/mini-graphics/sprout.gif" style="padding: 0px 0px 0px 0px;"><br><i>thanks for stopping by! please leave a note <a class="external-link" href="https://www.yourworldoftext.com/~talyssa.txt/">in my guestbook</a> if you wish</i></p>
+      <h2>this is Talyssa's <a class="internal-link" href="/what-is-digital-gardening">digital garden</a></h2>
+      <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts. it's a personalized wiki, and it works similarly to a scrap journal or a commonplace book (see: <a class="external-link" href="https://youtu.be/aaHEgPk0tNM">this</a>, <a class="external-link" href="https://youtu.be/XFUQJtOcras">this</a>, and <a class="external-link" href="https://youtu.be/T_S7Uiy03pw?t=731">this</a>) except that it's completely online and very easy to keep in tangent to my analog systems. i started this garden in 2022 out of curiousity and its relevance in my life waxes and wanes depending on what i'm interested in and working on. <br>everything that exists in the garden can be visualized in a web, which you can find <a class="internal-link" href="/web">here</a> <img src="/assets/mini-graphics/sprout.gif" style="padding: 0px 0px 0px 0px;"></p>
     </div>
     <div class="right-column">
       <p><h3>like a real garden,</h3>this space is always growing and evolving. here are my <b>indexes</b> that can help you move around in this space:</p><br>
@@ -66,11 +66,10 @@ permalink: /
 </html>
 
   <div class="additional-content">
-    <h2>here's another container with a heading</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..</p>
+    <h2>thanks for stopping by</h2>
+    <p><i> I have this space where you can leave a note <a class="external-link" href="https://www.yourworldoftext.com/~talyssa.txt/">in my guestbook</a> if you want</i></p>
   </div>
-</body>
-</html>
+
 
 <style>
   .wrapper {
