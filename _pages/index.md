@@ -43,7 +43,8 @@ permalink: /
     <div class="left-column">
       <h2>this is Talyssa's <a class="internal-link" href="/what-is-digital-gardening">digital garden</a></h2>
       <p>you can think of it as a sprawling collection of digital references, miscellaneous artifacts, and fragmented thoughts. it's a personalized wiki, and it works similarly to a scrap journal or a commonplace book (see: <a class="external-link" href="https://youtu.be/aaHEgPk0tNM">this</a>, <a class="external-link" href="https://youtu.be/XFUQJtOcras">this</a>, and <a class="external-link" href="https://youtu.be/T_S7Uiy03pw?t=731">this</a>) except that it's completely online and very easy to keep in tangent to my analog systems. i started this garden in 2022 out of curiousity and its relevance in my life waxes and wanes depending on what i'm interested in and working on. <br> if you want to see everything that exists in my garden, you can visualize it in this <a class="internal-link" href="/web">web</a></p><br>
-      <p><i> I have this space where you can leave a note <a class="external-link" href="https://www.yourworldoftext.com/~talyssa.txt/">in my guestbook</a> if you want</i></p>
+      <h2>thanks for stopping by</h2>
+      <p><i> you can leave a note <a class="external-link" href="https://www.yourworldoftext.com/~talyssa.txt/">in my guestbook</a> if you want</i></p>
     </div>
     <div class="right-column">
       <p><h3>like a real garden,</h3>this space is always growing and evolving. here are my <b>indexes</b> that can help you move around in this space:</p><br>
@@ -62,32 +63,17 @@ permalink: /
         {% endfor %}
       </ul>
        <pre>
-       _                        
-       \`*-.                    
-        )  _`-.                 
-       .  : `. .                
-       : _   '  \               
-       ; *` _.   `*-._          
-       `-.-'          `-.       
-         ;       `       `.     
-         :.       .        \    
-         . \  .   :   .-'   .   
-         '  `+.;  ;  '      :   
-         :  '  |    ;       ;-. 
-         ; '   : :`-:     _.`* ;
-[bug] .*' /  .*' ; .*`- +'  `*' 
-      `*-*   `*-*  `*-*'
+      ,/|         _.--''^``-...___.._.,;
+     /, \'.     _-'          ,--,,,--'''
+    { \    `_-''       '    /}
+     `;;'            ;   ; ;
+ ._.--''     ._,,, _..'  .;.'
+  (,_....----'''     (,..--''
         </pre>
     </div>
   </div>
 </body>
 </html>
-
-  <div class="additional-content">
-    <h2>thanks for stopping by</h2>
-    <p><i> I have this space where you can leave a note <a class="external-link" href="https://www.yourworldoftext.com/~talyssa.txt/">in my guestbook</a> if you want</i></p>
-  </div>
-
 
 <style>
   .wrapper {
