@@ -46,12 +46,12 @@ permalink: /
     </div>
     <div class="right-column">
       <p><h3>like a real garden,</h3>this space is always growing and evolving. here are my <b>indexes</b> that can help you move around in this space:</p><br>
-      <a class="internal-link" href="/site-meta">site meta</a><br>
-      <a class="internal-link" href="/self">self</a><br>
-      <a class="internal-link" href="/science">science</a><br>
-      <a class="internal-link" href="/audio">audio</a><br>
-      <a class="internal-link" href="/tech">tech</a><br>
-      <a class="internal-link" href="/reads">reads</a><br>
+      <a class="internal-link" href="/site-meta">site meta</a>
+      <a class="internal-link" href="/self">self</a>
+      <a class="internal-link" href="/science">science</a>
+      <a class="internal-link" href="/audio">audio</a>
+      <a class="internal-link" href="/tech">tech</a>
+      <a class="internal-link" href="/reads">reads</a>
       <p><h3>& a few random notes:</h3></p>
       {% assign notes_pages = site.notes %}
       {% assign random_pages = notes_pages | sample: 3 %}
