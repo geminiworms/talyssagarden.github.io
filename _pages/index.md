@@ -26,6 +26,7 @@ permalink: /
       width: 40%;
       padding: 5px;
       box-sizing: border-box;
+      font-size: 16px;
     }
     /* Style the recent edits list */
     ul {
