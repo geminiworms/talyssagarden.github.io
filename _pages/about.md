@@ -4,6 +4,10 @@ title: About
 permalink: /about
 ---
 <html>
+  <div class="additional-content">
+    <h2>under construction</h2>
+    <p>i am in the process of reworking this entire about page</p>
+  </div>
 <head>
   <meta charset="UTF-8">
   <style>
