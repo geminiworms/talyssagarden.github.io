@@ -49,7 +49,7 @@ permalink: /about
     
    <!-- COLUMN 3 RIGHT -->
     <div class="column">
-      <p><img src="/assets/aboutme/image0.png" align="left" style="padding: 10px 20px 10px 0px; height:350px;"><br>
+      <p><img src="/assets/aboutme/image0.png" style="padding: 10px 20px 10px 0px; height:500px;"><br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet dictum sit amet. Diam ut venenatis tellus in metus. Ante metus dictum at tempor commodo ullamcorper. Tortor pretium viverra suspendisse potenti nullam. Adipiscing tristique risus nec feugiat. In iaculis nunc sed augue lacus viversus risus at ultrices mi. Facilisis volutpat est velit egestas dui id ornare arcu odio.</p>
     </div>
   </div>
