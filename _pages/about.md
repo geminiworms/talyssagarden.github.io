@@ -22,6 +22,7 @@ permalink: /about
       flex: 1;
       padding: 8px;
       box-sizing: border-box;
+      text-align: justify;
     }
     /* Style the columns */
     .column:nth-child(1) {
