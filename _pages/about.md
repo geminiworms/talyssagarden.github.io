@@ -33,18 +33,24 @@ permalink: /about
   </style>
 </head>
 <body>
+  
+  <!-- COLUMN 1 LEFT -->
   <div class="container">
     <div class="column">
       <h2>heading for column 1</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
+    
+    <!-- COLUMN 2 MIDDLE -->
     <div class="column">
       <h2>this is column 2</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet dictum sit amet. Diam ut venenatis tellus in metus. Ante metus dictum at tempor commodo ullamcornare quam viverra orci. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi. Facilisis volutpat est velit egestas dui id ornare arcu odio.</p>
     </div>
+    
+   <!-- COLUMN 3 RIGHT -->
     <div class="column">
-      <h2>here's the third</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet dictum sit amet. Diam ut venenatis tellus in metus. Ante metus dictum at tempor commodo ullamcorper. Tortor pretium viverra suspendisse potenti nullam. Adipiscing tristique risus nec feugiat. In iaculis nunc sed augue lacus viversus risus at ultrices mi. Facilisis volutpat est velit egestas dui id ornare arcu odio.</p>
+      <p><img src="/assets/aboutme/image0.png" align="left" style="padding: 10px 20px 10px 0px; height:350px;"><br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet dictum sit amet. Diam ut venenatis tellus in metus. Ante metus dictum at tempor commodo ullamcorper. Tortor pretium viverra suspendisse potenti nullam. Adipiscing tristique risus nec feugiat. In iaculis nunc sed augue lacus viversus risus at ultrices mi. Facilisis volutpat est velit egestas dui id ornare arcu odio.</p>
     </div>
   </div>
 </body>
