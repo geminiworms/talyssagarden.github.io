@@ -20,7 +20,7 @@ permalink: /about
     }
     .column {
       flex: 1;
-      padding: 8px;
+      padding: 12px;
       box-sizing: border-box;
       text-align: justify;
     }
