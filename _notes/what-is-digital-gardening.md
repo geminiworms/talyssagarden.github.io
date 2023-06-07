@@ -21,3 +21,7 @@ I'm also just a feind for long form content and I've been dissatisfied with curr
 
 #### And some references & tools for digital curation
 1. [Tom Critchlow on Wikis](https://tomcritchlow.com/wiki/wikis/)
+2. [neocities](https://neocities.org/) seems like a cool platform to host a garden (like [this](https://sonicyouth.neocities.org/))
+3. [obsidian](https://obsidian.md/) is gaining a lot of traction on [tiktok](https://www.tiktok.com/@buggbuzz/video/7238276550540479786?lang=en&q=obsidian%20notes&t=1686180255795) i think... i haven't played around with it myself but it can definitely support a garden like platform
+4. [notion](https://www.notion.so/) is a good platform for digital gardening, especially if you don't want to publically publish it (but there are options to make it public too!)
+5. [are.na](https://are.na) is a great platform too for gardening and also just for personal web-keeping and moodboarding
