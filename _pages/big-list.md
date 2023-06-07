@@ -12,7 +12,7 @@ permalink: /list
 3. [frederic edwin church](https://www.fredericedwinchurch.org/the-complete-works.html) and on [are.na](https://www.are.na/maxime-desalle/frederic-edwin-church)
 4. [content by connie zheng](https://www.conniezheng.com/)
 5. [writing coastlines, phd thesis by j.r. carpenter](http://writingcoastlines.net/)
-6. [soft.space](https://www.softspace.world/about.html)
+6. [soft.space](https://www.softspace.world/about.html) as well as [the soft.space garden](https://garden.softspace.world/)
 7. [feral.earth](http://feral.earth/)
 8. [a website is a room](https://a-website-is-a-room.net/)
 9. [how to run a small social media site for your friends](https://runyourown.social/)
@@ -20,6 +20,7 @@ permalink: /list
 11. [symphony in acid](https://symphonyinacid.net/)
 12. [jonas luebbers, creative developer](jonasluebbers.com)
 13. [@hotemogf's website](https://chia.design/)
+14. [i miss knowing what everyone's handwriting looks like](https://www.are.na/shea/i-miss-knowing-what-everyone-s-handwriting-looks-like)
 
 #### tools
 1. [w3schools try it editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic) *i use this a lot*
