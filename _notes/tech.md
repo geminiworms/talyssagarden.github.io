@@ -5,6 +5,7 @@ title: TECH
 1. [[web3|notes on web3]]
 2. [[exploring AI]]
 3. [[minecraft]]
+4. [[sheetsites]]
 
 
 ### articles to revisit
