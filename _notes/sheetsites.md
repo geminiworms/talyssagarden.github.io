@@ -6,6 +6,8 @@ Here are the [notes/guides](https://docs.google.com/spreadsheets/d/1gLyh6gv41vl9
 - <i> websites are a translation of data </i>
 - <i> websites are an act of gathering </i>
 
+this is the sheetsite i built during the workshop: [talyssa's bookshelf](https://tt-readinglist-sheetsite.glitch.me/)
+
 #### ideas
 - an intimate instagram: you can source information from a google form, where people can just add and contribute to the data
 - it's an easy way to archive personal lists/archives
