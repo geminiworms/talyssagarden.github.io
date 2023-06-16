@@ -2,7 +2,7 @@
 title: sheetsites
 ---
 ### I took a short workshop with [chia amisola](https://chia.design/) on websites created using google spreadsheets, html, and java
-Here are the [notes/guides](https://docs.google.com/spreadsheets/d/1gLyh6gv41vl9H1fBmjFrGfKip9dKkvIu6o8sccTw2lY/edit#gid=1378489804) <br>
+Here is a copy of the [notes/guides](https://docs.google.com/spreadsheets/d/1UfKfW7ES5nxsXY-u1vv4PMQFtluku2oKsDdbmuUGaFw/edit?usp=sharing) <br>
 - <i> websites are a translation of data </i>
 - <i> websites are an act of gathering </i>
 
