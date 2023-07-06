@@ -13,6 +13,12 @@ title: small web
    - [a love letter to you](https://alovelettertoyou.substack.com/)
    - [internet princess](https://internetprincess.substack.com/)
    - [common discourse](https://www.commondiscourse.xyz/)
+  
+
+i think there are contradicting philosophies looking at the future of the internet right now. at the root, both camps are founded upon the discomfort of the highly algorithmic, corporate invasion of the worldwide web. we have all noticed the way that high personalization of the internet has led to a paradoxical depersonalization of the internet... that we are all forced to participate in the infrastructure of the internet in order to be perceived as someone or something worthy of social place. <br>
+**but what is the natural progression?** <br>
+- decentralization: reclaiming ownership of the infrastructure that is already put into place by web1-2, redistribution of power, dependent on participation
+- intimacy: scaled down usage to reclaim the internet as a medium for expression, individualized, low participation/directed participation
 
 #### what is the internet?
 - what do we do with something that is infinitely public? we find intimacy again...
