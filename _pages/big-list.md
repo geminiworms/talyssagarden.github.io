@@ -41,6 +41,7 @@ permalink: /list
 2. [Derrick Gee playlists](https://open.spotify.com/user/derrickgee?si=4ecfafd80f4d4a9c)
 3. [Camden Art podcasts](https://open.spotify.com/show/1PAnyGJWvo0Wlc8WXlY7bK?si=060c4a56cb764e6f)
 4. [ancient green robin wall kimmerer](https://emergencemagazine.org/essay/ancient-green)
+5. [thesoundof.love](https://thesoundof.love/)
 
 #### read
 1. [common discourse substack](https://www.commondiscourse.xyz/)
