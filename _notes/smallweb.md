@@ -2,17 +2,21 @@
 title: small web
 ---
 ### references:
-1. [[sheetsites]]
-2. [a website is a room](https://a-website-is-a-room.net/)
-3. [feral.earth](http://feral.earth/)
-4. [neocities](https://neocities.org)
+1. [smallweb.site](https://smallweb.site) shameless plug
+2. [[sheetsites]]
+3. [a website is a room](https://a-website-is-a-room.net/)
+4. [feral.earth](http://feral.earth/)
+5. [neocities](https://neocities.org)
    - [cinni's dream home](https://cinni.net/)
    - [ita.toys](https://ita.toys/)
    - [angel99](https://angel99.neocities.org/home)
-5. [substack](https://substack.com)
+6. [substack](https://substack.com)
    - [a love letter to you](https://alovelettertoyou.substack.com/)
    - [internet princess](https://internetprincess.substack.com/)
-   - [common discourse](https://www.commondiscourse.xyz/)
+   - [common discourse](https://www.commondiscourse.xyz/) 
+7. discord servers (and adjacent)
+8. [are.na](https://are.na)
+
   
 
 i think there are contradicting philosophies looking at the future of the internet right now. at the root, both camps are founded upon the discomfort of the highly algorithmic, corporate invasion of the worldwide web. we have all noticed the way that high personalization of the internet has led to a paradoxical depersonalization of the internet... that we are all forced to participate in the infrastructure of the internet in order to be perceived as someone or something worthy of social place. <br>
