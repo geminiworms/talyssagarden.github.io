@@ -6,6 +6,7 @@ title: TECH
 2. [[exploring AI]]
 3. [[minecraft]]
 4. [[sheetsites]]
+5. [[smallweb]]
 
 
 ### articles to revisit
