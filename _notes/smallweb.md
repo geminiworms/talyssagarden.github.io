@@ -1,7 +1,7 @@
 ---
 title: small web
 ---
-### references (some pulled from [[list]]:
+### references:
 1. [[sheetsites]]
 2. [a website is a room](https://a-website-is-a-room.net/)
 3. [feral.earth](http://feral.earth/)
