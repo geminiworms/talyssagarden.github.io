@@ -28,6 +28,7 @@ permalink: /list
 3. [schultzschultz tools](https://www.schultzschultz.com/tools.html)
 4. [developh](https://developh.org/)
 5. [neocities](https://neocities.org/) --> i haven't tried it myself but this is so cool! seems like a viable place to host a digital garden
+6. [copyright free images from the british library](https://www.flickr.com/photos/britishlibrary/albums)
 
 #### watch
 1. [drive my car](https://www.youtube.com/watch?v=6BPKPb_RTwI)
