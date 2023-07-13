@@ -18,7 +18,7 @@ permalink: /list
 9. [how to run a small social media site for your friends](https://runyourown.social/)
 10. [fuse.kiwi creative digital reference archive](https://www.fuse.kiwi/)
 11. [symphony in acid](https://symphonyinacid.net/)
-12. [jonas luebbers, creative developer](jonasluebbers.com)
+12. [jonas luebbers, creative developer](https://jonasluebbers.com)
 13. [@hotemogf's website](https://chia.design/)
 14. [i miss knowing what everyone's handwriting looks like](https://www.are.na/shea/i-miss-knowing-what-everyone-s-handwriting-looks-like)
 
@@ -29,6 +29,7 @@ permalink: /list
 4. [developh](https://developh.org/)
 5. [neocities](https://neocities.org/) --> i haven't tried it myself but this is so cool! seems like a viable place to host a digital garden
 6. [copyright free images from the british library](https://www.flickr.com/photos/britishlibrary/albums)
+7. [twitter archiver](https://tinysubversions.com/twitter-archive/make-your-own/)
 
 #### watch
 1. [drive my car](https://www.youtube.com/watch?v=6BPKPb_RTwI)
