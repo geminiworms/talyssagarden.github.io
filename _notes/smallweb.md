@@ -32,6 +32,10 @@ i think there are contradicting philosophies looking at the future of the intern
 - connection in times of isolation, intimacy in times of publicity
 - the tendency of the internet to contradict itself (the internet as its own antidote, as its own contradiction, the paradox of the internet)
 
+### moodboards
+<iframe style="border:none;" width="100%" height="590" src="https://www.are.na/talyssa/other-web-abuazcz5tsi/embed" title="other web"></iframe>
+<iframe style="border:none;" width="100%" height="590" src="https://www.are.na/talyssa/what-if-this-was-a-website-jnazmf3lnwq/embed" title="what if this was a website"></iframe>
+
 ### The following notes are snippets from interviews with [chia amisola](https://chia.design), a non-anonymous steward of the intimate web. i admire their work a ton and i highly recommend taking a deep dive
 #### [a web is a place where people gathered](https://escapethealgorithm.substack.com/p/the-web-is-a-place-where-people-gathered?nthPub=211) with Chia Amisola
 - "I try to be intentional about how much I reveal at each entry point. Some of my links are buried deep within an old blog post. I have the mentality of entrusting that ==whoever is willing to do the work to unearth them has the right to know me in that particular way."==
