@@ -1,7 +1,7 @@
 ---
 title: playground
 ---
-##### supplementary materials, notes, and little html/css experiments for my personal reference
+<p> supplementary materials, notes, and little html/css experiments for my personal reference </p>
 
 #### links I like referencing for html
 - [w3schools](https://www.w3schools.com/html/html_styles.asp)
@@ -9,19 +9,20 @@ title: playground
 - Google colorpicker
 - [jquery video tutorial series](https://www.youtube.com/watch?v=BaIgTKj1iCQ)
 
-speaking of colors, here's the ones I'm using on this site <br>
+<hr>
+colors I'm using on this site <br>
 <b>pinks:</b> <br>
 <b style="color:#ffedf5">light</b> <b style="color:#ffdbea">medium</b> <b style="color:#ffb0d3">dark</b> <br>
 `#ffedf5 , #ffdbea , #ffb0d3` <br>
 <b>greens:</b> <br>
-<b style="color:#d3e8d7">light</b> <b style="color:#84ab8c">medium</b> <b style="color:#206e31">dark</b> <b style="color:#15cf38 ">bright</b> <br>
-`#d3e8d7 , #84ab8c , #206e31 , #15cf38` <br>
+<b style="color:#d3e8d7">light</b> <b style="color:#aecfb4">medium</b> <b style="color:#206e31">dark</b> <b style="color:#15cf38 ">bright</b> <br>
+`#d3e8d7 , #aecfb4 , #206e31 , #15cf38` <br>
 <b>and the background color is: #fcfaf5</b>
 
 #### a little box?
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  a <span style="font-weight: bold">[[your-first-note]]</span> to get started on your exploration.
+<p style="padding: 3em 1em; background: #ffedf5; border-radius: 4px;">
+  a <span style="font-weight: bold">[[your-first-note]]</span> to get started on your exploration. note: style is handled in-line, not in a style file.
 </p>
 
 #### embedding stuff
