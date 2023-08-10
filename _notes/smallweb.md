@@ -51,4 +51,16 @@ i think there are contradicting philosophies looking at the future of the intern
 - "With a website that you own, you’re really able to take up space and dictate the environment in which you want to give and be received. I think so much of love is also that, right?"
 - "the internet has its own wonderful navigational structure, in which everyone can visit the same link and experience it differently, which lets you communicate and love in a more directed way."
 - "I’ve been thinking about preservation, in which there’s a politics of optics and power that determines whether someone is worthy of saving — and thus, being known. Who doesn't want to be a part of history? Who wants to, simply, be known? Don't we all, in some way?"
+
+### concept: living zine
+- it's a webpage but it's a zine and it scrolls sideways and it's not mobile friendly because who cares about mobile friendly
+- layouts will have to be made separately and then embeds will sit on top
+- clickable popups should glow/shake/move on hover
+- how do i make videos/media autoplay when the screen is focused on, but then stop when it moves past?
+**resources**
+- [scroll behavior](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-behavior)
+- [scroll margin in line](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-margin-inline)
+- [scroll snap stop](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-stop) -- see "x, always mandatory"
+- [autoplay on scroll snap stop and then autopause](https://stackoverflow.com/questions/21163756/html5-and-javascript-to-play-videos-only-when-visible)
+- 
   
