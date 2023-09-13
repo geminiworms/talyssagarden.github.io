@@ -22,7 +22,7 @@ permalink: /list
 13. [@hotemogf's website](https://chia.design/)
 14. [i miss knowing what everyone's handwriting looks like](https://www.are.na/shea/i-miss-knowing-what-everyone-s-handwriting-looks-like)
 15. [net art anthology](https://re-net-art-anthology.superhi.hosting/)
-16. 
+16. [maya man's website](https://mayaontheinter.net/) and [body of work](https://mayaontheinter.net/index)
 
 #### tools
 1. [w3schools try it editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic) *i use this a lot*
