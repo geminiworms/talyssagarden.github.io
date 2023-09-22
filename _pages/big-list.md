@@ -61,4 +61,5 @@ permalink: /list
 10. [teachings of the garden](https://www.schlebruegge.com/en/content/teachings-garden)
 11. [work by James Somers](https://jsomers.net/) --> [i should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 12. [nikita voloboev's notes on writing simply](https://wiki.nikiv.dev/writing/)
+13. [are.na's debrief on mindful internet use](https://www.are.na/blog/workshop-debrief-mindful-internet)
 
