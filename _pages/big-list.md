@@ -32,6 +32,7 @@ permalink: /list
 5. [neocities](https://neocities.org/) --> i haven't tried it myself but this is so cool! seems like a viable place to host a digital garden
 6. [copyright free images from the british library](https://www.flickr.com/photos/britishlibrary/albums)
 7. [twitter archiver](https://tinysubversions.com/twitter-archive/make-your-own/)
+8. [3D ascii generator](https://www.youtube.com/watch?v=yMbQCKOULcU&t=24s)
 
 #### watch
 1. [drive my car](https://www.youtube.com/watch?v=6BPKPb_RTwI)
