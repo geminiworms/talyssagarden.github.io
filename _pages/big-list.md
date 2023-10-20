@@ -41,6 +41,7 @@ permalink: /list
 4. [cinemarii's film lists](https://www.youtube.com/user/aril123)
 5. [made in abyss](https://en.wikipedia.org/wiki/Made_in_Abyss)
 6. [why japan's internet is weirdly designed](https://www.youtube.com/watch?v=z6ep308goxQ) -- follow up: [how culture made japanese internet design "weird"](https://www.youtube.com/watch?v=Opy-SjDU0UY&list=TLPQMTQwNzIwMjNrI42uEBhZ7A&index=29)
+7. [what is love. baby you're hurting me by savannah brown](https://www.youtube.com/watch?v=pg_5L4OgyLM)
 
 #### listen
 1. [feeling asian podcast](https://open.spotify.com/show/19xkU2nVYC39nhig9Jvbc4?si=c480b6075a26445a)
