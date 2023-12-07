@@ -23,6 +23,7 @@ permalink: /list
 14. [i miss knowing what everyone's handwriting looks like](https://www.are.na/shea/i-miss-knowing-what-everyone-s-handwriting-looks-like)
 15. [net art anthology](https://re-net-art-anthology.superhi.hosting/)
 16. [maya man's website](https://mayaontheinter.net/) and [body of work](https://mayaontheinter.net/index)
+17. [sandspiel](https://sandspiel.club/) ** this is beautiful !!!!
 
 #### tools
 1. [w3schools try it editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic) *i use this a lot*
@@ -64,4 +65,5 @@ permalink: /list
 11. [work by James Somers](https://jsomers.net/) --> [i should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 12. [nikita voloboev's notes on writing simply](https://wiki.nikiv.dev/writing/)
 13. [are.na's debrief on mindful internet use](https://www.are.na/blog/workshop-debrief-mindful-internet)
+14. [maya man is escaping the instagram identity crisis](https://www.bylinebyline.com/articles/maya-man-identity-crisis)
 
