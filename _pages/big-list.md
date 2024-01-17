@@ -25,6 +25,7 @@ permalink: /list
 16. [maya man's website](https://mayaontheinter.net/) and [body of work](https://mayaontheinter.net/index)
 17. [sandspiel](https://sandspiel.club/) ** this is beautiful !!!!
 18. [sadgrl.online magnetic poetry](https://sadgrl.online/magnet-poetry/)
+19. [internet archive](https://archive.org/) especially the [magazine rack](https://archive.org/details/magazine_packs)
 
 #### tools
 1. [w3schools try it editor](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic) *i use this a lot*
