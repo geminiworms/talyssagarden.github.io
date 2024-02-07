@@ -67,6 +67,7 @@ permalink: /list
 11. [work by James Somers](https://jsomers.net/) --> [i should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
 12. [nikita voloboev's notes on writing simply](https://wiki.nikiv.dev/writing/)
 13. [are.na's debrief on mindful internet use](https://www.are.na/blog/workshop-debrief-mindful-internet)
-14. [maya man is escaping the instagram identity crisis](https://www.bylinebyline.com/articles/maya-man-identity-crisis)
-15. [the great offline -- real life mag](https://reallifemag.com/the-great-offline/)
+14. [why aren't there more websites about love? chia amisola, escape the algorithm](https://escapethealgorithm.substack.com/p/why-arent-there-more-websites-about)
+15. [maya man is escaping the instagram identity crisis](https://www.bylinebyline.com/articles/maya-man-identity-crisis)
+16. [the great offline -- real life mag](https://reallifemag.com/the-great-offline/)
 
