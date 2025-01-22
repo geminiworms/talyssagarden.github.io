@@ -25,7 +25,10 @@ I actually didn't change much. Minor edits for fonts and colors were added to th
 *I have no web dev coding experience at all... unless you count tumblr html. However, I am a novice in bioinformatics so I started this endeavor with basic understanding of git, bash, and directory management. If you follow the [Virtual Goods Dealer](https://pages.virtualgoodsdealer.com/articles/2020/11/16/simple-website-tutorial-part-one/) static website tutorial from the beginning, I believe you will have all the basic understanding necessary to get your garden going. Otherwise, I am also here to help!* 
 
 #### i'm learning!
-This was sort of an endeavor I jumped into alone. I don't have anyone on call that's always going to answer my questions and help me debug. I spend a lot of time sifting through stackoverflow, but when I want to expedite the process, [chatgpt](chatgpt.openai.com) has been an insanely good resource.<br> With that said, this is both a functioning site and a learning activity for me... who knows if the it will ever have a final form. To keep up with my brain, you can always check out pieces that I'm working on building in my [[to do list]].
+This was sort of an endeavor I jumped into alone. I don't have anyone on call that's always going to answer my questions and help me debug. I spend a lot of time sifting through stackoverflow, but when I want to expedite the process, [chatgpt](chatgpt.openai.com) has been an insanely good resource.(*) <br> With that said, this is both a functioning site and a learning activity for me... who knows if the it will ever have a final form. To keep up with my brain, you can always check out pieces that I'm working on building in my [[to do list]].
+
+(*) Disclaimer: when I started this project, chatgpt was brand new for public use and it *was* a really good resource for figuring things out. However, now that we know more, I encourage you to use other resources like [W3schools](https://www.w3schools.com/html/) and stack overflow forums and reddit and etc. etc. -- don't be afraid of asking real people questions!
 
 #### moodboard
 1. [julie moon](https://www.juliemoon.info/)
+2. [mental nodes](https://www.mentalnodes.com/)
