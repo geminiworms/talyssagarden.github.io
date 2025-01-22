@@ -18,6 +18,7 @@ I'm also just a feind for long form content and I've been dissatisfied with curr
 3. [Maggie Appleton's digital gardening repo](https://github.com/MaggieAppleton/digital-gardeners)
 4. [Nikita Voloboev's wiki](https://wiki.nikiv.dev/)
 5. [are.na board on 'creating digital gardens](https://www.are.na/annika-hansteen-izora/creating-digital-gardens)
+6. [hyphacoop digital garden template that i am super interested in converting to....](https://github.com/hyphacoop/digitalgarden?tab=readme-ov-file)
 
 #### And some references & tools for digital curation
 1. [Tom Critchlow on Wikis](https://tomcritchlow.com/wiki/wikis/)
